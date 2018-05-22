@@ -1,105 +1,159 @@
 [ {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Good morning. Please join me in prayer." ],
   "anchor" : "para25",
   "subject" : null
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Orders of the day. Orders of the day. Orders of the day. Last call for orders of the day.", "There being no orders of the day, this House is recessed until 10:30." ],
   "anchor" : "para27",
   "subject" : null
 }, {
-  "speaker" : "Mr. Monte Kwinter",
+  "speaker" : "Monte Kwinter",
   "text" : [ "Today page captain Joshua Rosenberg is joined by his family: his mother, Dr. Marsha Rosenberg; his father, David Rosenberg; and sister Eliana Rosenberg.", "I would also like to introduce a constituent of mine, Amy Rechtsman, who is in the Legislature today. Amy is here visiting with the Yes I Can Nursery School. They have two locations in North York serving 100 children, many of whom have autism." ],
   "anchor" : "para31",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "Mrs. Gila Martow",
+  "speaker" : "Gila Martow",
   "text" : [ "A friend of mine, Randy Maxwell, is going to be coming down from Richmond Hill today at 12 o’clock. Join Randy and me and the Israeli Consul, D.J. Schneeweiss, for the flag raising on Israel Independence Day. Am Yisroel Chai." ],
   "anchor" : "para33",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "Hon. Tracy MacCharles",
+  "speaker" : "Tracy MacCharles",
   "text" : [ "It’s a great pleasure of mine to introduce a group of people from the National Junior Golf Academy: Mr. Kingsley Rowe and his wife, Amelia Yee, Terry Kirkup, John Dickie and my very good friend Kim Kirkup, who is also associated with TK Golf Enterprises. She was also the volunteer coordinator for my first election in 2011—a dear, dear friend. Welcome to Queen’s Park." ],
   "anchor" : "para34",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "Mr. Jack MacLaren",
+  "speaker" : "Jack MacLaren",
   "text" : [ "It’s my pleasure to introduce the page captain today from my riding Samantha Lin. She is here with family members, who are in the public gallery: her aunt Lisa Ma, her grandmother Shu Yun Li and her grandfather Jin Hua Ma." ],
   "anchor" : "para35",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "Hon. Michael Gravelle",
+  "speaker" : "Michael Gravelle",
   "text" : [ "I’m very glad to welcome my dear sister Susan, who is here today, accompanied by her beloved husband, Roy—Susan and Roy Houghton." ],
   "anchor" : "para36",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "Hon. Helena Jaczek",
+  "speaker" : "Helena Jaczek",
   "text" : [ "Speaker, please help me welcome the mother of page Megan Chan. Rebecca Yu will be joining us shortly from the great riding of Oak Ridges–Markham." ],
   "anchor" : "para37",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "Hon. David Zimmer",
+  "speaker" : "David Zimmer",
   "text" : [ "I have the pleasure of introducing two of my constituents who are here as a part of the Yes I Can Nursery School visit: Karen Lam and Michelle Chin. There they are. Welcome." ],
   "anchor" : "para38",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "Hon. Eric Hoskins",
+  "speaker" : "Eric Hoskins",
   "text" : [ "I also want to introduce several of my constituents from St. Paul’s here today: Vicki Mason, a Yes I Can Nursery School board member, is here, along with Rebecca Hall and Monique Saunders, parents from Yes I Can Nursery School. Welcome to Queen’s Park." ],
   "anchor" : "para39",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "Mrs. Cristina Martins",
+  "speaker" : "Cristina Martins",
   "text" : [ "I have a number of visitors here in the Legislature this morning, a very busy day for Davenport. With us, we have Mr. McLaughlin’s grade 5 students from Alexander Muir/Gladstone public school.", "We are also welcoming a Portuguese folklore group from Les Ulis et Orsay, France, who are being welcomed to Davenport by community organization Casa das Beiras.", "Also here for the celebration of the Carnation Revolution this Saturday, April 25, is Colonel Manuel Pedroso Marques. Welcome all to Queen’s Park." ],
   "anchor" : "para40",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "Mr. Arthur Potts",
+  "speaker" : "Arthur Potts",
   "text" : [ "It’s my pleasure to introduce Ashley Allinson, board president of Yes I Can Nursery School in Beaches–East York and also the editor of the Toronto Food Blog. Welcome." ],
   "anchor" : "para43",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "We have a special group of guests in the Speaker’s gallery on my left-hand side. I’m going to turn to the Attorney General to do the introduction." ],
   "anchor" : "para44",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "Hon. Madeleine Meilleur",
+  "speaker" : "Madeleine Meilleur",
   "text" : [ "Merci, monsieur le Président. Earlier this morning I had the great pleasure of honouring Ontarians who have shown exceptional commitment to helping victims of crime and their families. This year’s recipients are true role models for all people in Ontario.", "Ces récipiendaires des Prix de distinction du procureur général pour les services aux victimes proviennent de partout en Ontario. From Sault Ste. Marie, please welcome Robin Kerr, Staff Sergeant Michael Davey and Richard Gadde; from Brockville, Sonya Jodoin; from Sarnia, Lenore Lukasic-Foss; from Smiths Falls, Mary Pat Bingley; from Brampton, LaRee Walters-Boadway; from Richmond Hill, Cathy Danton; from Peterborough, Lindsay Haacke, representing Francesca Pisano; from here in Toronto, we have Michele Anderson, Barb McIntyre, Reverend Sky Starr, Sunder Singh, representing the Elspeth Heyworth, and Celia Chu, representing Anna Amy Ho; and from Hamilton, John Stanley and Jennifer Fazzari. Although not present, I would also like to acknowledge Pamela Cross from Kingston.", "Félicitations et merci." ],
   "anchor" : "para45",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Welcome." ],
   "anchor" : "para48",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "Mr. Peter Tabuns",
+  "speaker" : "Peter Tabuns",
   "text" : [ "I’d like to welcome students and teachers from the Jones Avenue English-as-a-second-language class today. Enjoy the Legislature." ],
   "anchor" : "para49",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "In the west public gallery, visiting us here today, is Zanana Akande, the member from St. Andrew–St. Patrick in the 35th Parliament. Welcome. We’re glad you’re here with us today.", "Also we have in the Speaker’s gallery today special guests from a parliamentary delegation led by His Excellency Fazal Hadi Muslimyar, the Speaker of the House of Elders—or Senate—of the National Assembly of Afghanistan. We welcome you here.", "Government House leader on a point of order." ],
   "anchor" : "para50",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "Hon. Yasir Naqvi",
+  "speaker" : "Yasir Naqvi",
   "text" : [ "Thank you very much, Speaker. In light of the attendance of our guests from the Afghanistan Upper House of Parliament, I would like to seek unanimous consent on behalf of all members of this House to observe a moment of silence for our fallen Canadian soldiers who worked shoulder to shoulder with men and women in Afghanistan to bring peace and prosperity to that country." ],
   "anchor" : "para53",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The government House leader is seeking unanimous consent for all of us to observe a moment of silence in honour of the Canadian soldiers, along with the Afghanis. Do we agree? Agreed.", "I would ask all members to please rise and observe a moment of silence in respect." ],
   "anchor" : "para54",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "May they rest in peace.", "It is now time for question period." ],
   "anchor" : "para57",
-  "subject" : null
+  "subject" : {
+    "text" : "Introduction of Visitors",
+    "anchor" : "para30"
+  }
 }, {
-  "speaker" : "Mr. John Yakabuski",
+  "speaker" : "John Yakabuski",
   "text" : [ "My question is to the Premier. Premier, during this pre-budget period we have tried to impress upon you how reckless and dangerous your fiscal and electricity policies really are. Sadly, it seems we’re not getting through.", "I know you have enough staff so that every call and every email to your office is screened by a legion of loyal Liberals. Here in the opposition, we often deal with those on a personal basis. We hear from constituents in desperate circumstances because their hydro bills are skyrocketing while their incomes are stagnant and the tax burden grows heavier. But this does not seem to matter to you. Ratepayers in this province currently don’t know how they’re going to pay this month’s hydro bill. Where will they be in five years when their bills have doubled under your failed disastrous energy policies?" ],
   "anchor" : "para61",
   "subject" : {
@@ -107,7 +161,7 @@
     "anchor" : "para60"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "I thank the member opposite for the question. I would say to him that he knows full well that we have worked very hard to reinvest in and rebuild the energy system in this province. The electricity system had been neglected when we came into office. It was degraded across the province, it was not reliable and we had to make investments. Just as an example, 10,000 kilometres of line had to be rebuilt.", "The fact is that that costs money. The legacy of the party opposite was that they had left that degraded electricity system. We’ve made those investments, and we recognize that we have to have some supports in place for people who need some help. So I hope that, as the member opposite responds to those emails, he lets people know about the programs that are in place. I’ll speak to those in the supplementary." ],
   "anchor" : "para64",
   "subject" : {
@@ -115,7 +169,7 @@
     "anchor" : "para60"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Supplementary?" ],
   "anchor" : "para66",
   "subject" : {
@@ -123,7 +177,7 @@
     "anchor" : "para60"
   }
 }, {
-  "speaker" : "Mr. John Yakabuski",
+  "speaker" : "John Yakabuski",
   "text" : [ "Yet she conveniently ignores the $50 billion of global adjustment that people are paying in this province.", "You keep ignoring the $27-billion debt of the Ontario Electricity Financial Corp. like it doesn’t actually exist. Your ignorance-is-bliss mentality won’t make the problem go away.", "Energy rates have continuously increased since your government came to power in 2003. This devastating trend of escalating rates will only worsen through your sale of Hydro One. If you sell 60% of Hydro One, you will restrict the OEFC’s ability to pay off the electricity debt. This will result in higher rates for electricity consumers—even higher than your 42% planned increase under your long-term energy plan.", "Premier, I ask you this question: Are you going to follow the law in the Electricity Act and use the proceeds from the Hydro One sale to pay down the electricity debt?" ],
   "anchor" : "para67",
   "subject" : {
@@ -131,7 +185,7 @@
     "anchor" : "para60"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "Mr. Speaker, the supplementary has gotten to where this member really wants to go, which is that he doesn’t believe we should be taking the tough decisions required to invest in infrastructure in this province. That’s essentially what he is saying.", "Let me go back to the issue of people who need some support. He knows full well that no matter what we do in terms of Hydro One, the Ontario Energy Board will continue to set rates. The Ontario Energy Board has been setting rates; they will continue to set rates. But even in that reality, we know that there are people who need support.", "For example, the Low-Income Energy Assistance Program provides emergency financial support for families and individuals who are having trouble paying their bills. The saveONenergy Home Assistance Program helps consumers save on energy costs by improving energy efficiency in their homes. The fact is that we recognize supports are necessary, and we have programs in place. But we are going to invest in infrastructure, Mr. Speaker." ],
   "anchor" : "para71",
   "subject" : {
@@ -139,7 +193,7 @@
     "anchor" : "para60"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Final supplementary." ],
   "anchor" : "para74",
   "subject" : {
@@ -147,7 +201,7 @@
     "anchor" : "para60"
   }
 }, {
-  "speaker" : "Mr. John Yakabuski",
+  "speaker" : "John Yakabuski",
   "text" : [ "Those programs are nothing but distractions to take people’s attention away from the disasters you’ve put upon them.", "Your rushed announcement to sell Hydro One shows you have no plan to protect ratepayers from further increases. You’re motivated by the short-term goal to fund your wish list and, in turn, have no problem making things worse for electricity consumers, even though they’ve been hammered since you came to power.", "You’re ignoring the elephant in the room. As rates rise in Ontario and become more and more uncompetitive, you’ve driven businesses out of the province into the arms of lower-rate jurisdictions and have made electricity unaffordable for the average Ontarian. It’s the ratepayers of this province who have built up energy assets like Hydro One over the decades, and they are the ones who need the break today. But you seem determined to double down on your disastrous policies.", "How much more do the ratepayers of this province have to suffer before you provide real, sustainable energy relief to consumers?" ],
   "anchor" : "para75",
   "subject" : {
@@ -155,15 +209,15 @@
     "anchor" : "para60"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
-  "text" : [ "You know, the elephant that was in the room when that party was in power was that there needed to be investment in this province—there needed to be investment in the electricity system; there needed to be investment in infrastructure—none of which the opposite—" ],
+  "speaker" : "Kathleen O. Wynne",
+  "text" : [ "You know, the elephant that was in the room when that party was in power was that there needed to be investment in this province—there needed to be investment in the electricity system; there needed to be investment in infrastructure—none of which the opposite—", "Interjections." ],
   "anchor" : "para79",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para60"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Some of the noise I’m hearing is coming from people who are supposed to be seated elsewhere.", "Finish, please." ],
   "anchor" : "para81",
   "subject" : {
@@ -171,15 +225,15 @@
     "anchor" : "para60"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
-  "text" : [ "—none of which the party opposite undertook, Mr. Speaker. We are undertaking those investments.", "Let me continue to make sure that the member opposite understands the programs that are in place because, if his concern is for people who are struggling, he will want to know about these. As he knows, currently the Ontario Clean Energy Benefit, which is a 10% discount for residential consumers and small businesses and farms, is in place. What I hope he’s aware of is that the new Ontario Electricity Support Program will come into effect when the OCEB expires, and that provides targeted support for low-income families. I hope he’s aware of that and he lets his constituents know." ],
+  "speaker" : "Kathleen O. Wynne",
+  "text" : [ "—none of which the party opposite undertook, Mr. Speaker. We are undertaking those investments.", "Let me continue to make sure that the member opposite understands the programs that are in place because, if his concern is for people who are struggling, he will want to know about these. As he knows, currently the Ontario Clean Energy Benefit, which is a 10% discount for residential consumers and small businesses and farms, is in place. What I hope he’s aware of is that the new Ontario Electricity Support Program will come into effect when the OCEB expires, and that provides targeted support for low-income families. I hope he’s aware of that and he lets his constituents know.", "Interjections." ],
   "anchor" : "para83",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para60"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Stop the clock. I beg for your indulgence because I’ve just been handed a note. There’s another guest that has been inadvertently missed, Louise Russo, in the Speaker’s gallery, who was shot and who recovered from a violent crime. We welcome you to the House today.", "I apologize to the members; I thought it was important. We now have a new question." ],
   "anchor" : "para86",
   "subject" : {
@@ -187,15 +241,15 @@
     "anchor" : "para60"
   }
 }, {
-  "speaker" : "Ms. Lisa MacLeod",
-  "text" : [ "Yes, the delay I think was necessary. That was important.", "My question is to the Premier. On April 20, regarding power rates, you said, “The way that rates are set by the OEB: That’s how they’re set now” and that’s how we will set them in the future. “Those protections are in place.” Yet on that same day, the OEB announced a 15% increase, and now consumers will be paying twice as much on-peak. My definition and the Premier’s definition of “consumer protection” are miles apart. In fact, she hasn’t sold—" ],
+  "speaker" : "Lisa MacLeod",
+  "text" : [ "Yes, the delay I think was necessary. That was important.", "My question is to the Premier. On April 20, regarding power rates, you said, “The way that rates are set by the OEB: That’s how they’re set now” and that’s how we will set them in the future. “Those protections are in place.” Yet on that same day, the OEB announced a 15% increase, and now consumers will be paying twice as much on-peak. My definition and the Premier’s definition of “consumer protection” are miles apart. In fact, she hasn’t sold—", "Interjection." ],
   "anchor" : "para89",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The member from Prince Edward–Hastings, she’s asking the question." ],
   "anchor" : "para92",
   "subject" : {
@@ -203,15 +257,15 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Ms. Lisa MacLeod",
-  "text" : [ "—a single share of Hydro One yet, but prices are going up, making it more difficult for Ontario families. Will the Premier tell this assembly right now what her sale of Hydro One—" ],
+  "speaker" : "Lisa MacLeod",
+  "text" : [ "—a single share of Hydro One yet, but prices are going up, making it more difficult for Ontario families. Will the Premier tell this assembly right now what her sale of Hydro One—", "Interjections." ],
   "anchor" : "para93",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Please finish." ],
   "anchor" : "para95",
   "subject" : {
@@ -219,7 +273,7 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Ms. Lisa MacLeod",
+  "speaker" : "Lisa MacLeod",
   "text" : [ "Will the Premier tell us right now what her sale of Hydro One will cost Ontario ratepayers, what it will cost Ontario families and what it will cost Ontario seniors?" ],
   "anchor" : "para96",
   "subject" : {
@@ -227,7 +281,7 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "I think the member opposite made one of the points I want to make, Mr. Speaker, which is: These are unrelated subjects. The fact is that the Ontario Energy Board has set rates. We laid out a long-term energy plan, and in that we forecast what the rates were going to be. The current—" ],
   "anchor" : "para97",
   "subject" : {
@@ -235,7 +289,7 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Mr. John Yakabuski",
+  "speaker" : "John Yakabuski",
   "text" : [ "You tell that to the person who can’t pay their hydro bill, that they’re unrelated subjects." ],
   "anchor" : "para98",
   "subject" : {
@@ -243,7 +297,7 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "It goes both ways." ],
   "anchor" : "para99",
   "subject" : {
@@ -251,15 +305,15 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
-  "text" : [ "The current rates just announced by the OEB are actually lower than what was forecast in the long-term energy plan. The fact is that we are working very hard to take costs out of the system so that those prices can go down.", "The member opposite references the off-peak and on-peak prices. Yes, we want to drive conservation. I know that the party opposite has not the slightest bit of interest in conservation or environmental concerns. They have no interest in reducing greenhouse gas emissions. None of that is of interest to them. The fact is, it is of interest to us, and having a decent gap between off-peak and on-peak actually drives conservation." ],
+  "speaker" : "Kathleen O. Wynne",
+  "text" : [ "The current rates just announced by the OEB are actually lower than what was forecast in the long-term energy plan. The fact is that we are working very hard to take costs out of the system so that those prices can go down.", "The member opposite references the off-peak and on-peak prices. Yes, we want to drive conservation. I know that the party opposite has not the slightest bit of interest in conservation or environmental concerns. They have no interest in reducing greenhouse gas emissions. None of that is of interest to them. The fact is, it is of interest to us, and having a decent gap between off-peak and on-peak actually drives conservation.", "Interjections." ],
   "anchor" : "para100",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The member from Renfrew, come to order. I’m catching up. And the member from Prince Edward–Hastings, second time.", "Supplementary?" ],
   "anchor" : "para103",
   "subject" : {
@@ -267,23 +321,23 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Ms. Lisa MacLeod",
-  "text" : [ "Speaker, that answer wasn’t even rational, and the Premier knows it, because they changed their long-term energy program and their plan several times in the last five years. In fact, the sale of Hydro One wasn’t even in it. In fact, it wasn’t even in their platform.", "Electricity rates have tripled three times since her government has come to power in 2003, the OEB continues to raise its rates and they’re going to continue to drive up rates because we have to pay for expensive energy experiments by this government, whether it’s industrial wind turbines or whether it is the smart meter tax machines.", "Now we are going to see Ontario families struggle even further off-peak. Why, at a time when Stephen Harper’s government is making it easier for Ontario families to survive, is this government making it more difficult—" ],
+  "speaker" : "Lisa MacLeod",
+  "text" : [ "Speaker, that answer wasn’t even rational, and the Premier knows it, because they changed their long-term energy program and their plan several times in the last five years. In fact, the sale of Hydro One wasn’t even in it. In fact, it wasn’t even in their platform.", "Electricity rates have tripled three times since her government has come to power in 2003, the OEB continues to raise its rates and they’re going to continue to drive up rates because we have to pay for expensive energy experiments by this government, whether it’s industrial wind turbines or whether it is the smart meter tax machines.", "Now we are going to see Ontario families struggle even further off-peak. Why, at a time when Stephen Harper’s government is making it easier for Ontario families to survive, is this government making it more difficult—", "Interjections." ],
   "anchor" : "para105",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
-  "text" : [ "Be seated, please." ],
+  "speaker" : "The Speaker",
+  "text" : [ "Be seated, please.", "Interjections." ],
   "anchor" : "para109",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Mr. Mike Colle",
+  "speaker" : "Mike Colle",
   "text" : [ "There’s an open nomination in Ottawa there." ],
   "anchor" : "para111",
   "subject" : {
@@ -291,7 +345,7 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The member from Eglinton–Lawrence will come to order.", "Start the clock. Premier." ],
   "anchor" : "para112",
   "subject" : {
@@ -299,15 +353,15 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
-  "text" : [ "I would just note that the member opposite couldn’t even keep a straight face when—" ],
+  "speaker" : "Kathleen O. Wynne",
+  "text" : [ "I would just note that the member opposite couldn’t even keep a straight face when—", "Interjection." ],
   "anchor" : "para115",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The member from Renfrew–Nipissing–Pembroke will come to order. The next one’s a warning." ],
   "anchor" : "para117",
   "subject" : {
@@ -315,15 +369,15 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
-  "text" : [ "I would just say that even the member opposite couldn’t keep a straight face when she was asking that question.", "The fact is that the federal government has made decisions. They’ve made decisions for their political reasons. They’ve made decisions that, if you’re doing fine, if you’re wealthy, then we’re going to help you do better—" ],
+  "speaker" : "Kathleen O. Wynne",
+  "text" : [ "I would just say that even the member opposite couldn’t keep a straight face when she was asking that question.", "The fact is that the federal government has made decisions. They’ve made decisions for their political reasons. They’ve made decisions that, if you’re doing fine, if you’re wealthy, then we’re going to help you do better—", "Interjection." ],
   "anchor" : "para118",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The member from Bruce–Grey–Owen Sound, come to order." ],
   "anchor" : "para121",
   "subject" : {
@@ -331,31 +385,31 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
-  "text" : [ "But what they didn’t do was tackle the tough issues that are facing every province in this country. They didn’t tackle the infrastructure deficit, they didn’t tackle the fiscal imbalance. They didn’t look at the communities in this country and say, “We’re going to work with you to make sure that you have an economic future and we’re going to support you in that economic development.” They didn’t do any of that. They just said, “If you’re rich, we’re going to help you get richer.”" ],
+  "speaker" : "Kathleen O. Wynne",
+  "text" : [ "But what they didn’t do was tackle the tough issues that are facing every province in this country. They didn’t tackle the infrastructure deficit, they didn’t tackle the fiscal imbalance. They didn’t look at the communities in this country and say, “We’re going to work with you to make sure that you have an economic future and we’re going to support you in that economic development.” They didn’t do any of that. They just said, “If you’re rich, we’re going to help you get richer.”", "Interjections." ],
   "anchor" : "para122",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
-  "text" : [ "Be seated, please." ],
+  "speaker" : "The Speaker",
+  "text" : [ "Be seated, please.", "Interjection." ],
   "anchor" : "para124",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
-  "text" : [ "Attorney General, come to order." ],
+  "speaker" : "The Speaker",
+  "text" : [ "Attorney General, come to order.", "Interjection." ],
   "anchor" : "para126",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "I’m not sure who said that, but I would appreciate immensely if the member would stand up and withdraw." ],
   "anchor" : "para128",
   "subject" : {
@@ -363,7 +417,7 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Mr. Arthur Potts",
+  "speaker" : "Arthur Potts",
   "text" : [ "I withdraw, Speaker." ],
   "anchor" : "para129",
   "subject" : {
@@ -371,7 +425,7 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Mr. John Yakabuski",
+  "speaker" : "John Yakabuski",
   "text" : [ "I’m not surprised." ],
   "anchor" : "para130",
   "subject" : {
@@ -379,7 +433,7 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "I’m not asking for editorials either.", "Final supplementary." ],
   "anchor" : "para131",
   "subject" : {
@@ -387,15 +441,15 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Ms. Lisa MacLeod",
-  "text" : [ "It is hard to keep a straight face around here given the embarrassment we’re going to see at 4 o’clock this afternoon with a budget that is still in deficit, when the federal government can balance their own.", "But let’s get back to the point here: The Premier said this week that hydro rates won’t go up, but Ed Clark—" ],
+  "speaker" : "Lisa MacLeod",
+  "text" : [ "It is hard to keep a straight face around here given the embarrassment we’re going to see at 4 o’clock this afternoon with a budget that is still in deficit, when the federal government can balance their own.", "But let’s get back to the point here: The Premier said this week that hydro rates won’t go up, but Ed Clark—", "Interjections." ],
   "anchor" : "para133",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Hon. David Orazietti",
+  "speaker" : "David Orazietti",
   "text" : [ "Try standing up for Ontario for a change." ],
   "anchor" : "para136",
   "subject" : {
@@ -403,7 +457,7 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Minister of Government and Consumer Services, come to order.", "Carry on." ],
   "anchor" : "para137",
   "subject" : {
@@ -411,15 +465,15 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Ms. Lisa MacLeod",
-  "text" : [ "Thanks, Speaker—" ],
+  "speaker" : "Lisa MacLeod",
+  "text" : [ "Thanks, Speaker—", "Interjection." ],
   "anchor" : "para139",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Minister of Tourism, Culture and Sport." ],
   "anchor" : "para141",
   "subject" : {
@@ -427,15 +481,15 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Ms. Lisa MacLeod",
-  "text" : [ "Ed Clark said he can’t guarantee that hydro rates won’t go up. As our old friend in this chamber Dalton McGuinty once said, “The best predictor of future behaviour is past behaviour.” So I think we’re in for a doozy of a hydro rate increase.", "Again, rates have tripled since you’ve come to power. They’re going to spike another 42%, going up $100 per family in households across this province. Just this week, it was announced electricity rates are rising again by another 15% in May.", "Will the Premier come clean and tell us how much her sale of Hydro One is going to cost Ontario families who are struggling under her government?" ],
+  "speaker" : "Lisa MacLeod",
+  "text" : [ "Ed Clark said he can’t guarantee that hydro rates won’t go up. As our old friend in this chamber Dalton McGuinty once said, “The best predictor of future behaviour is past behaviour.” So I think we’re in for a doozy of a hydro rate increase.", "Again, rates have tripled since you’ve come to power. They’re going to spike another 42%, going up $100 per family in households across this province. Just this week, it was announced electricity rates are rising again by another 15% in May.", "Will the Premier come clean and tell us how much her sale of Hydro One is going to cost Ontario families who are struggling under her government?", "Interjections." ],
   "anchor" : "para142",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Be seated, please. Thank you.", "Premier." ],
   "anchor" : "para146",
   "subject" : {
@@ -443,15 +497,15 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
-  "text" : [ "The budget that we are going to bring forward is going to be a responsible one that is based on a plan that we ran on and that we are committed to, and that is investment in this province. It did include a review of assets. We said we were going to do that. We have done that in order that we can invest in the public transit and the roads and the bridges that are needed all across this province." ],
+  "speaker" : "Kathleen O. Wynne",
+  "text" : [ "The budget that we are going to bring forward is going to be a responsible one that is based on a plan that we ran on and that we are committed to, and that is investment in this province. It did include a review of assets. We said we were going to do that. We have done that in order that we can invest in the public transit and the roads and the bridges that are needed all across this province.", "Interjection." ],
   "anchor" : "para148",
   "subject" : {
     "text" : "Hydro rates",
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Member from Dufferin–Caledon." ],
   "anchor" : "para150",
   "subject" : {
@@ -459,7 +513,7 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "When the party opposite was in power, they had an opportunity to tackle many of these big issues. They chose not to. They neglected the electricity system.", "Yes, they worked toward balancing their budget, and the way they did that was very similar to what Mr. Harper has done. They balanced their budgets on the backs of municipalities. They downloaded costs to the municipalities. We’ve uploaded those costs. We’re not going to balance our budget on the backs of municipalities or residents, but that’s exactly what Stephen Harper has done." ],
   "anchor" : "para151",
   "subject" : {
@@ -467,7 +521,7 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Stop the clock.", "Be seated, please. Thank you.", "New question." ],
   "anchor" : "para154",
   "subject" : {
@@ -475,7 +529,7 @@
     "anchor" : "para88"
   }
 }, {
-  "speaker" : "Mr. Jagmeet Singh",
+  "speaker" : "Jagmeet Singh",
   "text" : [ "My question is to the Premier. Last April, the Premier made a promise to Ontarians: She said she would not cut education. Well, we’ve seen teachers fired, schools closed and families thrown into chaos. In fact, just last week, Windsor families learned that 21 early childhood educators were being fired. People didn’t vote to see their schools closed and teachers fired.", "Will today’s budget reverse these cuts?" ],
   "anchor" : "para158",
   "subject" : {
@@ -483,7 +537,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "I know the Minister of Education is going to want to speak to the specifics, but let’s just be clear: The funding for education has not been cut. It will not be cut.", "In fact, if the member opposite had an opportunity to look at the Grants for Student Needs, which is actually the section of the budget that applies to education—those numbers are already in the public realm—he would see that, despite the fact that there are fewer students in our education system, the funding has remained stable, which means that there is more money per student in the system this year than last year." ],
   "anchor" : "para160",
   "subject" : {
@@ -491,7 +545,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Supplementary?" ],
   "anchor" : "para162",
   "subject" : {
@@ -499,7 +553,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "Mr. Jagmeet Singh",
+  "speaker" : "Jagmeet Singh",
   "text" : [ "The Premier made another promise: She said she would not cut health care. Yet I would ask the Premier to tell that to the 17 RNs who were fired from Southlake Regional Health Centre, the 50 nurses fired in Ottawa, the 11 nurses who are being fired in Thunder Bay and the seniors who are losing 28 beds in that region.", "Ontarians didn’t vote to see nurses fired or hospitals closed. Will today’s budget reverse those cuts?" ],
   "anchor" : "para163",
   "subject" : {
@@ -507,7 +561,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "Minister of Health and Long-Term Care." ],
   "anchor" : "para165",
   "subject" : {
@@ -515,7 +569,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "Hon. Eric Hoskins",
+  "speaker" : "Eric Hoskins",
   "text" : [ "The member opposite and that whole caucus know that the truth is that there are 24,000 more nurses employed in this province than there were a decade ago. We continue to employ nurses and other health care professionals.", "My critic the member from Nickel Belt scared the heck out of a lot of people yesterday when she said the Lakeridge Health centre was letting go of 20% of their genetic technologists and laying off senior technologists. These positions, she said, have a direct impact on the patients at Durham.", "In fact, the truth is the complete opposite of what she said. The hospital in question was so irritated by her response in the Legislature yesterday that they’re issuing a letter today to correct the record. She’s talking, first of all—" ],
   "anchor" : "para166",
   "subject" : {
@@ -523,7 +577,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "Hon. Eric Hoskins",
+  "speaker" : "Eric Hoskins",
   "text" : [ "I hope I have the opportunity in the supplementary to address this more specifically." ],
   "anchor" : "para170",
   "subject" : {
@@ -531,7 +585,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Final supplementary." ],
   "anchor" : "para171",
   "subject" : {
@@ -539,7 +593,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "Mr. Jagmeet Singh",
+  "speaker" : "Jagmeet Singh",
   "text" : [ "Ontario drivers pay the highest—" ],
   "anchor" : "para172",
   "subject" : {
@@ -547,7 +601,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "I would like order, please." ],
   "anchor" : "para174",
   "subject" : {
@@ -555,7 +609,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Start the clock.", "Final supplementary." ],
   "anchor" : "para176",
   "subject" : {
@@ -563,7 +617,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "Mr. Jagmeet Singh",
+  "speaker" : "Jagmeet Singh",
   "text" : [ "Ontario drivers pay the highest auto insurance rates in Canada. The Premier told Ontarians that they would see a 15% reduction in auto insurance by this August, but with four months to go, the Premier is not even halfway there.", "The Premier promised not to cut health care, but we have seen nurses being fired and hospitals being closed. The Premier promised not to cut education, but we’ve seen teachers being fired and schools being closed. The Premier promised to reduce auto insurance by 15%, yet we’ve not seen that—" ],
   "anchor" : "para178",
   "subject" : {
@@ -571,7 +625,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Stop the clock. The Associate Minister of Health and Long-Term Care, the member from Newmarket–Aurora, and I’ve probably got four more that I’m going to get to: That’s enough.", "Please finish." ],
   "anchor" : "para181",
   "subject" : {
@@ -579,7 +633,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "Mr. Jagmeet Singh",
+  "speaker" : "Jagmeet Singh",
   "text" : [ "The Premier promised to provide a 15% reduction to auto insurance. Will today’s budget ensure that Ontarians get the reduction that they were promised?" ],
   "anchor" : "para183",
   "subject" : {
@@ -587,23 +641,23 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "Hon. Eric Hoskins",
-  "text" : [ "I’m prepared to go through this one hospital at a time, if they want to. I’m going to give the member the opportunity as well to correct his record when he said that we’re closing hospitals. There is not a single hospital that’s closing around this province unless we’re building a new one to replace it.", "Back to Lakeridge hospital: She was talking about three people. The hospital has said that they disagree that patients will be impacted. In fact, they said that technology has changed. They now use the University Health Network lab for better tests, faster results and better quality. All three still have jobs—" ],
+  "speaker" : "Eric Hoskins",
+  "text" : [ "I’m prepared to go through this one hospital at a time, if they want to. I’m going to give the member the opportunity as well to correct his record when he said that we’re closing hospitals. There is not a single hospital that’s closing around this province unless we’re building a new one to replace it.", "Back to Lakeridge hospital: She was talking about three people. The hospital has said that they disagree that patients will be impacted. In fact, they said that technology has changed. They now use the University Health Network lab for better tests, faster results and better quality. All three still have jobs—", "Interjections." ],
   "anchor" : "para185",
   "subject" : {
     "text" : "Government spending",
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
-  "text" : [ "From your own side, I want to hear the answer, and from this side, the member from Dufferin–Caledon will come to order." ],
+  "speaker" : "The Speaker",
+  "text" : [ "From your own side, I want to hear the answer, and from this side, the member from Dufferin–Caledon will come to order.", "Interjection." ],
   "anchor" : "para188",
   "subject" : {
     "text" : "Government spending",
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The Minister of Aboriginal Affairs is warned. The injections are not appreciated—" ],
   "anchor" : "para190",
   "subject" : {
@@ -611,7 +665,15 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "Shafiq Qaadri",
+  "text" : [ "Interjections." ],
+  "anchor" : "para191",
+  "subject" : {
+    "text" : "Government spending",
+    "anchor" : "para157"
+  }
+}, {
+  "speaker" : "The Speaker",
   "text" : [ "I thank the member for the correction—very helpful.", "New question." ],
   "anchor" : "para192",
   "subject" : {
@@ -619,7 +681,7 @@
     "anchor" : "para157"
   }
 }, {
-  "speaker" : "Ms. Catherine Fife",
+  "speaker" : "Catherine Fife",
   "text" : [ "To the Premier: Many Ontarians are still trying to remember when they voted to sell off Hydro One. The Premier made lots of promises during the last election. She promised 15-minute all-day GO rail service to Kitchener. She broke that promise last Friday. But she never said anything about selling off Ontario’s oldest and most valuable public asset. She never made that promise; that was an election promise from the Common Sense Revolution. We’re lucky that the Ontario public forced Mike Harris to break that promise.", "Why is the Premier breaking her promise to run a progressive government while keeping an election promise from the Common Sense Revolution?" ],
   "anchor" : "para195",
   "subject" : {
@@ -627,7 +689,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "Making decisions like the investment in transit and transportation infrastructure to the magnitude that we are—these are very important decisions, because they are decisions that are going to have an impact for generations to come.", "The member opposite knows full well that we are committed to 15-minute full-day, two-way GO service. She also knows that there are sections of line around the province—and I know the Minister of Transportation will want to speak to this—where we have to negotiate with CN and CP, and we have to make sure that we can move forward.", "The fact is we did run on reviewing assets. We said that part of our plan to invest in the infrastructure, the roads and the bridges that are needed around this province, would be to look at assets that have been built up by this province and owned by the people of Ontario, and we would leverage those—" ],
   "anchor" : "para197",
   "subject" : {
@@ -635,7 +697,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Ms. Sylvia Jones",
+  "speaker" : "Sylvia Jones",
   "text" : [ "You actually used the words “sell Ontario Hydro”—" ],
   "anchor" : "para200",
   "subject" : {
@@ -643,7 +705,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The member from Dufferin–Caledon is warned.", "Carry on." ],
   "anchor" : "para201",
   "subject" : {
@@ -651,7 +713,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "—leverage those in order to invest in new assets, and we would retain ownership, which is exactly what we’re doing. We’re retaining ownership of Hydro One, broadening that ownership, but we will make sure that we make those investments that we committed to." ],
   "anchor" : "para203",
   "subject" : {
@@ -659,7 +721,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Supplementary?" ],
   "anchor" : "para204",
   "subject" : {
@@ -667,7 +729,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Ms. Catherine Fife",
+  "speaker" : "Catherine Fife",
   "text" : [ "Again to the Premier: Over the last few years, Hydro One’s profits have gone up. Meanwhile, interest rates have gone down. Yet the Premier thinks it makes more sense to give up those rising profits instead of taking advantage of falling interest rates. It’s just not fiscally responsible.", "For every dollar in interest the government would save by selling Hydro One, Ontarians will give up $2 in Hydro One profits—lost profits.", "Does the Premier realize that two is bigger than one?" ],
   "anchor" : "para205",
   "subject" : {
@@ -675,15 +737,15 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
-  "text" : [ "What we know is that contrary to what the third party would like to suggest, we cannot just keep borrowing to make these investments. At some point, we have to have the money in hand to be able to make—" ],
+  "speaker" : "Kathleen O. Wynne",
+  "text" : [ "What we know is that contrary to what the third party would like to suggest, we cannot just keep borrowing to make these investments. At some point, we have to have the money in hand to be able to make—", "Interjections." ],
   "anchor" : "para208",
   "subject" : {
     "text" : "Privatization of public assets",
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Finish, please." ],
   "anchor" : "para210",
   "subject" : {
@@ -691,7 +753,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "The fact is that we ran on a plan to make the investments that we know are needed in terms of our economy. That means transit, roads and bridges. It means within the greater Toronto and Hamilton area; it means outside of the greater Toronto and Hamilton area. We know that companies want to come to Ontario, but they are not going to come if we don’t have the infrastructure that will allow us to be competitive in the 21st century. That’s why we’re going to make these investments." ],
   "anchor" : "para211",
   "subject" : {
@@ -699,7 +761,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Final supplementary." ],
   "anchor" : "para212",
   "subject" : {
@@ -707,7 +769,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Ms. Catherine Fife",
+  "speaker" : "Catherine Fife",
   "text" : [ "Again to the Premier: The Premier’s fire sale of Hydro One will mean giving away hundreds of millions of dollars in annual profits to Bay Street. Once you sell it, it is gone, gone, gone.", "The Premier says this money will go to infrastructure. Just like the Harper government, the Premier wants these to be public-private partnerships. The Auditor General found that of the $8 billion that the government wasted on public-private partnerships, $6.5 billion went to the pockets of Bay Street financiers." ],
   "anchor" : "para213",
   "subject" : {
@@ -715,7 +777,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Hon. Brad Duguid",
+  "speaker" : "Brad Duguid",
   "text" : [ "How are you going to fund public transit? You have no plan whatsoever to fund that Kitchener line." ],
   "anchor" : "para215",
   "subject" : {
@@ -723,7 +785,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The Minister of Economic Development is warned.", "Finish, please." ],
   "anchor" : "para216",
   "subject" : {
@@ -731,15 +793,15 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Ms. Catherine Fife",
-  "text" : [ "Some $6.5 billion of this went into the pockets of Bay Street financiers. So the government will sell Hydro One to Bay Street in order to pay for P3s that benefit Bay Street." ],
+  "speaker" : "Catherine Fife",
+  "text" : [ "Some $6.5 billion of this went into the pockets of Bay Street financiers. So the government will sell Hydro One to Bay Street in order to pay for P3s that benefit Bay Street.", "Interjection." ],
   "anchor" : "para218",
   "subject" : {
     "text" : "Privatization of public assets",
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Minister of Children and Youth Services, come to order." ],
   "anchor" : "para220",
   "subject" : {
@@ -747,7 +809,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Ms. Catherine Fife",
+  "speaker" : "Catherine Fife",
   "text" : [ "Mr. Speaker, when did the government decide to sell the province of Ontario to Bay Street?" ],
   "anchor" : "para221",
   "subject" : {
@@ -755,7 +817,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "What the member opposite neglects to mention is that because of the strategy that we undertook to get the infrastructure built, we actually saved $8 billion, in terms of risk, that we possibly could have spent.", "I want to just be clear that the party opposite also has not made it clear and has neglected to—" ],
   "anchor" : "para222",
   "subject" : {
@@ -763,7 +825,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Mr. John Yakabuski",
+  "speaker" : "John Yakabuski",
   "text" : [ "Is the Pennysaver a Liberal Party publication?" ],
   "anchor" : "para224",
   "subject" : {
@@ -771,7 +833,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The member from Renfrew–Nipissing–Pembroke is warned. I think there’s a budget this afternoon, so if anyone wants to test, I will name.", "Carry on." ],
   "anchor" : "para225",
   "subject" : {
@@ -779,7 +841,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "The third party has neglected to mention that in the plan that Ed Clark brought forward, we’ve made it clear that the government will retain control. Our government has been clear that broadening the ownership of Hydro One, retaining 40% ownership—Ontario will remain the largest shareholder. No other entity will be able to own more than 10%. We will have control over the board and the chair. Those protections are in place." ],
   "anchor" : "para227",
   "subject" : {
@@ -787,7 +849,7 @@
     "anchor" : "para194"
   }
 }, {
-  "speaker" : "Mr. Garfield Dunlop",
+  "speaker" : "Garfield Dunlop",
   "text" : [ "My question to the Minister of Education. Minister, students are still out of the classroom in Durham; it’s their fourth day. Already we’re getting a number of emails and letters and phone calls to our offices. No one is buying your excuse that these strikes are local.", "Through the Speaker to the minister: There are simply no negotiations taking place at the local level. Students in Sudbury will be locked out on April 27, and in Peel on May 4. That’s 71,000 students across this province.", "Minister, have you been given a coherent explanation yet, or do you now realize the strike is because of years and years of Liberal mismanagement?" ],
   "anchor" : "para229",
   "subject" : {
@@ -795,7 +857,7 @@
     "anchor" : "para228"
   }
 }, {
-  "speaker" : "Hon. Liz Sandals",
+  "speaker" : "Liz Sandals",
   "text" : [ "What I’m pleased to report is what I’ve been able to report for the last few days. That is that the school board associations, representing the employer; the government, representing the funder; and the unions, representing the secondary teachers in the English public system, are all at the table. We all continue to work on negotiations because I think we all share the belief that the way to resolve this situation is to reach a negotiated collective agreement.", "None of us want to see those students missing class. We all think that we need to get the students back into class as quickly as possible. The way to do that is to negotiate a collective agreement. That’s what we are working very hard on right now at the central level." ],
   "anchor" : "para232",
   "subject" : {
@@ -803,7 +865,7 @@
     "anchor" : "para228"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Supplementary?" ],
   "anchor" : "para234",
   "subject" : {
@@ -811,7 +873,7 @@
     "anchor" : "para228"
   }
 }, {
-  "speaker" : "Mr. Garfield Dunlop",
+  "speaker" : "Garfield Dunlop",
   "text" : [ "Back to the minister: In four days, high school students are expected to see picket lines in Sudbury, and 11 days after that in Peel. That’s four days for your staff to ensure that you aren’t mystified or perplexed when another board walks away from the table. I’ve said it before, there are no negotiations taking place at the local level.", "When you changed the bargaining system, you said, “It’s quite clear now that the government has a requirement to bargain in good faith.” Minister, if it’s so clear, then why don’t you know what is keeping students out of the classroom and cancelling proms and field trips?" ],
   "anchor" : "para235",
   "subject" : {
@@ -819,7 +881,7 @@
     "anchor" : "para228"
   }
 }, {
-  "speaker" : "Hon. Liz Sandals",
+  "speaker" : "Liz Sandals",
   "text" : [ "Actually, the member has got his facts wrong because negotiations are ongoing in Rainbow and Peel. In fact, they’ve asked for a mediator from the Minister of Labour in each case to help support those.", "But I’m not going to take a lecture on how we have managed education centrally from the party that, as part of its platform, committed to firing 22,000 education workers, including thousands of teachers. That was the way they thought they would manage the education system. That was going to make for great labour relations, when they arrived on the scene and decided to fire everybody.", "I quote from the PC campaign and the leader of the day. Mr. Hudak was asked, when he was leader, during the campaign, “Will it mean”—" ],
   "anchor" : "para237",
   "subject" : {
@@ -827,15 +889,15 @@
     "anchor" : "para228"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
-  "text" : [ "Thank you.", "New question." ],
+  "speaker" : "The Speaker",
+  "text" : [ "Thank you.", "New question.", "Interjections." ],
   "anchor" : "para241",
   "subject" : {
     "text" : "Teachers’ labour disputes",
     "anchor" : "para228"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "A reminder: When I stand, Minister, you sit.", "New question." ],
   "anchor" : "para244",
   "subject" : {
@@ -843,7 +905,7 @@
     "anchor" : "para228"
   }
 }, {
-  "speaker" : "Ms. Cindy Forster",
+  "speaker" : "Cindy Forster",
   "text" : [ "My question is to the Premier. In my riding of Welland and across Hamilton, Niagara, Haldimand and Brant, members of OPSEU 294 have been on strike since April 10.", "The for-profit CarePartners has shown no respect for front-line nurses and refuses to bargain. The CCAC for-profit contracting-out is yet another example of this government’s right-wing, austerity and privatization agenda. It’s obvious that the for-profit system is not working in health care—it hasn’t for years—and it’s clear that the Premier has no intention of changing this system.", "Speaker, has the Premier been too busy selling off our public assets to ensure that health care workers working for for-profit agencies are treated with respect and dignity?" ],
   "anchor" : "para247",
   "subject" : {
@@ -851,7 +913,7 @@
     "anchor" : "para246"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "Minister of Health and Long-Term Care." ],
   "anchor" : "para250",
   "subject" : {
@@ -859,7 +921,7 @@
     "anchor" : "para246"
   }
 }, {
-  "speaker" : "Hon. Eric Hoskins",
+  "speaker" : "Eric Hoskins",
   "text" : [ "Mr. Speaker, it’s of utmost importance to this government that we respect our health care workers, the hundreds of thousands of health care workers around this province, who do important work each and every day, including—as the member is referring to—within our home and community care system, but also in our hospital system. That’s why that respect and dignity that we afford to those important front-line workers—that we’re continuing to invest in that important sector of this economy and a service that’s so important to Ontarians.", "Our investments in home care this year have gone up by 5%. That’s a $270-million increase. A significant portion of that, I should add, is specific to our personal support workers who are so essential across all health care environments, but particularly in the home and community sector, where we’ve made a commitment to them to increase their wage to a minimum of $16.50. We’re giving them a $4 increase over a three-year period." ],
   "anchor" : "para251",
   "subject" : {
@@ -867,7 +929,7 @@
     "anchor" : "para246"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Supplementary?" ],
   "anchor" : "para253",
   "subject" : {
@@ -875,7 +937,7 @@
     "anchor" : "para246"
   }
 }, {
-  "speaker" : "Ms. Cindy Forster",
+  "speaker" : "Cindy Forster",
   "text" : [ "Speaker, this past week I’ve received countless emails from constituents who see the striking health workers not only as nurses but as family.", "Denise Flannigan has been a patient of CarePartners for six years. She says that without the nurses, she would be “a young immobile woman in a convalescent home, wasting away, without interaction with others,” and these nurses have given her a second, a third, a fourth and a forever chance at her life.", "It’s clear that patient care is being directly impacted because of CarePartners’ failure to bargain, let alone bargain in good faith. These are taxpayers’ dollars, and they should be spent on care, not profit.", "Why is this Liberal government doing nothing to make sure that these for-profit health care agencies respect the bargaining process, and work in harmony with front-line workers to ensure that the 1,600 patients in this area—patients like Denise—continue to receive the good, quality care that they need?" ],
   "anchor" : "para254",
   "subject" : {
@@ -883,7 +945,7 @@
     "anchor" : "para246"
   }
 }, {
-  "speaker" : "Hon. Eric Hoskins",
+  "speaker" : "Eric Hoskins",
   "text" : [ "The member opposite knows, in this particular case, that we aren’t the employers. But we do implore both sides, quite frankly, to negotiate a solution which is respectful of the workers and respectful, most of all, of the individuals, the clients, that the member opposite is referencing. That’s why, earlier in January of this year, I received the report from Gail Donner on home and community care, to continue to help us shape the future for that important part of the health care sector.", "We are making additional investments: 5% this year, an increase of 5% next year and the year after that. So compared to last year, it will be almost a three-quarters-of-a-billion-dollar increase in the budget that goes to home and community care.", "In this specific example, again, I would just simply implore both parties, the employers—we’re not the employers in this case—and the employees, to negotiate a solution which is respectful to all parties." ],
   "anchor" : "para258",
   "subject" : {
@@ -891,7 +953,7 @@
     "anchor" : "para246"
   }
 }, {
-  "speaker" : "Ms. Daiene Vernile",
+  "speaker" : "Daiene Vernile",
   "text" : [ "My question is for the Minister of Transportation. As the member for Kitchener Centre, I can tell you that public transit is a very important issue to people living in my community. Last week, our government announced that we are going to be unlocking assets by offering shares in certain public assets, so that we can invest in transit and transportation, across the province.", "On Friday, the Minister of Transportation and the Premier, Kathleen Wynne, announced plans for regional express rail. These are very exciting announcements, but people living in my community want to know exactly how these investments are going to benefit them. Can the minister please provide clarity—as there seem to be some members who are rather confused about this—as to how these investments are going to help my constituents living in Kitchener and all of Waterloo region?" ],
   "anchor" : "para262",
   "subject" : {
@@ -899,7 +961,7 @@
     "anchor" : "para261"
   }
 }, {
-  "speaker" : "Hon. Steven Del Duca",
+  "speaker" : "Steven Del Duca",
   "text" : [ "I want to begin by thanking the member for Kitchener Centre, not only for the question today, but for championing her community and for being such a strong advocate.", "As everyone knows, our government is making the single largest infrastructure investment in Ontario’s history through the Moving Ontario Forward plan. This plan will invest $13.5 billion in improvements across the GO Transit network to increase ridership and reduce travel times, which will result in more than a doubling of peak service and a quadrupling of off-peak service compared to today, and reduce journey times for some cross-region transit trips by as much as 50%.", "On the Kitchener line alone, Speaker, GO service will increase to more than 10 times current service levels. In addition, those living between Kitchener and Bramalea will benefit from express service to and from Union Station on the Kitchener line. We will continue to work with CN, who owns a portion of the Kitchener line, to find ways to make commuting faster for those living in Kitchener." ],
   "anchor" : "para264",
   "subject" : {
@@ -907,7 +969,7 @@
     "anchor" : "para261"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Supplementary?" ],
   "anchor" : "para267",
   "subject" : {
@@ -915,7 +977,7 @@
     "anchor" : "para261"
   }
 }, {
-  "speaker" : "Ms. Daiene Vernile",
+  "speaker" : "Daiene Vernile",
   "text" : [ "I want to thank the minister for his answer. It is encouraging to hear that people living in my community can expect to see increased GO rail service through the Moving Ontario Forward plan.", "As the Minister of Transportation noted, we are making the single largest infrastructure investment in Ontario’s history. But there are still critics who are suggesting that our government is not doing enough to invest in transit and transportation in Waterloo region. Can the minister please tell members of this House what other investments our government is making in transit and transportation in Waterloo region?" ],
   "anchor" : "para268",
   "subject" : {
@@ -923,15 +985,15 @@
     "anchor" : "para261"
   }
 }, {
-  "speaker" : "Hon. Steven Del Duca",
-  "text" : [ "Again I thank that member for her question.", "Speaker, I fundamentally disagree with anyone who suggests we are not investing in transit and transportation in Kitchener-Waterloo. Just look at some of the incredible projects we have under way in that important region: The initial phase of design has already been completed for the expansion of Highway 7 between Kitchener and Guelph; construction is set to begin in 2015. We’ve also committed up to $300 million in funding for stage one of Waterloo’s rapid transit system. By 2016, we will also add two additional morning and afternoon peak-period trips between Waterloo region and the GTA on the GO service.", "We are making critical investments in Kitchener transit. Members of the opposing parties, the member from Kitchener–Conestoga and the member from Kitchener–Waterloo, should remember that, when they had the chance in 2012 and 2013 and 2014, they and their parties voted against every single budget to deliver for their communities." ],
+  "speaker" : "Steven Del Duca",
+  "text" : [ "Again I thank that member for her question.", "Speaker, I fundamentally disagree with anyone who suggests we are not investing in transit and transportation in Kitchener-Waterloo. Just look at some of the incredible projects we have under way in that important region: The initial phase of design has already been completed for the expansion of Highway 7 between Kitchener and Guelph; construction is set to begin in 2015. We’ve also committed up to $300 million in funding for stage one of Waterloo’s rapid transit system. By 2016, we will also add two additional morning and afternoon peak-period trips between Waterloo region and the GTA on the GO service.", "We are making critical investments in Kitchener transit. Members of the opposing parties, the member from Kitchener–Conestoga and the member from Kitchener–Waterloo, should remember that, when they had the chance in 2012 and 2013 and 2014, they and their parties voted against every single budget to deliver for their communities.", "Interjections." ],
   "anchor" : "para270",
   "subject" : {
     "text" : "Infrastructure program funding",
     "anchor" : "para261"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Be seated, please.", "New question." ],
   "anchor" : "para274",
   "subject" : {
@@ -939,7 +1001,7 @@
     "anchor" : "para261"
   }
 }, {
-  "speaker" : "Mr. Steve Clark",
+  "speaker" : "Steve Clark",
   "text" : [ "My question is to the Premier. The people of Leeds–Grenville have seen your beer sales plan, and it has left them with a bit of a hangover. They know you can’t manage it and that it’s just an attempt to distract people from your disastrous Hydro One sell-off and your inability to manage our economy.", "What they’re most upset about is that rural Ontario has been left empty-handed with your half-baked plan. True to form, though, you haven’t missed an opportunity to tax us. Premier, why are the people of my riding good enough to pay your $100-million beer tax but get none of your 450 licences?" ],
   "anchor" : "para277",
   "subject" : {
@@ -947,7 +1009,7 @@
     "anchor" : "para276"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "Mr. Speaker, I would just say to the member opposite that I think he knows there was inherent unfairness in the model of the Beer Store that had evolved over time. As Ed Clark looked at the assets in this province and realized that the inherent unfairness could be addressed—craft brewers, for example, around the province were telling us repeatedly that they couldn’t get access to shelf space and that they couldn’t grow their market shares.", "The changes that Ed Clark has proposed and that we are adopting will address some of that unfairness. What we know is that, in some small towns in rural communities, if there is a grocery store and a Beer Store and an LCBO or an agency store, that distribution network is working quite well for those communities. What we don’t want to do is set up a situation where, actually, a grocery store in a community or a Beer Store would shut down—" ],
   "anchor" : "para279",
   "subject" : {
@@ -955,7 +1017,7 @@
     "anchor" : "para276"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Thank you.", "Supplementary?" ],
   "anchor" : "para281",
   "subject" : {
@@ -963,7 +1025,7 @@
     "anchor" : "para276"
   }
 }, {
-  "speaker" : "Mr. Steve Clark",
+  "speaker" : "Steve Clark",
   "text" : [ "Back to the Premier: The fact is that none of your licences are going to communities under 30,000 in population. You know that that cap shuts out my entire riding and most of rural Ontario.", "That means an innovative grocer like Neil Kudrinko, in Westport, can’t expand and hire new staff—not because he doesn’t have the ability, but because you say his store is located in the wrong part of Ontario. It’s the same thing for Lynn Laming at Kitley Grocery in Toledo.", "You’re picking winners and losers based on geography. That’s wrong. If you were truly the Premier for all of Ontario, you’d make sure that in this afternoon’s budget, you would change that 30,000 population cap. Will you do that and allow businesses to compete based on merit and not their postal code?" ],
   "anchor" : "para284",
   "subject" : {
@@ -971,15 +1033,15 @@
     "anchor" : "para276"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
-  "text" : [ "What the member opposite is saying is that he thinks, basically, we should just open up the distribution network, and beer should be available everywhere. Just be careful, because when you look at other jurisdictions where that has happened, what you see is, the beer price goes up by about $5 for a two-four.", "The fact is, we are trying to find that balance of keeping a distribution network—" ],
+  "speaker" : "Kathleen O. Wynne",
+  "text" : [ "What the member opposite is saying is that he thinks, basically, we should just open up the distribution network, and beer should be available everywhere. Just be careful, because when you look at other jurisdictions where that has happened, what you see is, the beer price goes up by about $5 for a two-four.", "The fact is, we are trying to find that balance of keeping a distribution network—", "Interjections." ],
   "anchor" : "para287",
   "subject" : {
     "text" : "Retail alcohol sales",
     "anchor" : "para276"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Thank you.", "Premier." ],
   "anchor" : "para290",
   "subject" : {
@@ -987,7 +1049,7 @@
     "anchor" : "para276"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "Mr. Speaker, when Ed Clark and his team looked at the distribution network, and they looked at the prices in other jurisdictions, what he determined was that if we were to go the route of some of those other jurisdictions—" ],
   "anchor" : "para292",
   "subject" : {
@@ -995,7 +1057,7 @@
     "anchor" : "para276"
   }
 }, {
-  "speaker" : "Mr. Steve Clark",
+  "speaker" : "Steve Clark",
   "text" : [ "You need to get out of Toronto." ],
   "anchor" : "para293",
   "subject" : {
@@ -1003,7 +1065,7 @@
     "anchor" : "para276"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The member from Leeds–Grenville, come to order." ],
   "anchor" : "para294",
   "subject" : {
@@ -1011,15 +1073,15 @@
     "anchor" : "para276"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
-  "text" : [ "—and have beer everywhere, the price would go up. So what the Tories are saying is they—" ],
+  "speaker" : "Kathleen O. Wynne",
+  "text" : [ "—and have beer everywhere, the price would go up. So what the Tories are saying is they—", "Interjection." ],
   "anchor" : "para295",
   "subject" : {
     "text" : "Retail alcohol sales",
     "anchor" : "para276"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "I just finished asking the member from Leeds–Grenville to come to order. Now he’s warned.", "New question." ],
   "anchor" : "para297",
   "subject" : {
@@ -1027,7 +1089,7 @@
     "anchor" : "para276"
   }
 }, {
-  "speaker" : "Ms. Teresa J. Armstrong",
+  "speaker" : "Teresa J. Armstrong",
   "text" : [ "My question is to the Premier. London is home to one of the most state-of-the-art and respected medical facilities in the country. Yet Londoners of all ages have contacted my offices, included seniors with mobility issues and limited incomes, telling me they are forced to wait—in some cases, for years—for appointments with a medical specialist, or are told to leave London for that service.", "Premier, can you explain why people living right beside a world-class facility are being told they can’t have access to it?" ],
   "anchor" : "para300",
   "subject" : {
@@ -1035,7 +1097,7 @@
     "anchor" : "para299"
   }
 }, {
-  "speaker" : "Hon. Kathleen O. Wynne",
+  "speaker" : "Kathleen O. Wynne",
   "text" : [ "Minister of Health and Long-Term Care." ],
   "anchor" : "para302",
   "subject" : {
@@ -1043,7 +1105,7 @@
     "anchor" : "para299"
   }
 }, {
-  "speaker" : "Hon. Eric Hoskins",
+  "speaker" : "Eric Hoskins",
   "text" : [ "The member opposite knows that we’re making significant investments right across this province, in fact, to bring down the wait times for a whole number of procedures. In fact, for those surgical procedures that we are measuring, we went from last place, when we came into office in 2003, to first place in the entire country. So those investments that we’re making and continuing to make are paying off.", "I know the member opposite will want to acknowledge, along with me, some important details of an announcement that was made earlier this week that affects her city of London, and which impacts, in a positive way, patient care as well. I’m happy to speak to that in the supplementary." ],
   "anchor" : "para303",
   "subject" : {
@@ -1051,7 +1113,7 @@
     "anchor" : "para299"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Supplementary?" ],
   "anchor" : "para305",
   "subject" : {
@@ -1059,7 +1121,7 @@
     "anchor" : "para299"
   }
 }, {
-  "speaker" : "Ms. Teresa J. Armstrong",
+  "speaker" : "Teresa J. Armstrong",
   "text" : [ "Back to the Premier: After wasting billions of taxpayer dollars on eHealth, Ornge scandals—and now you are cutting front-line nursing jobs across the province—it’s clear that this government is dismantling one of the most respected health care systems in the world, piece by piece.", "Can the Premier explain why all Ontarians, including the most vulnerable seniors and low-income families, are being further penalized by your inability to safeguard their health care tax dollars?" ],
   "anchor" : "para306",
   "subject" : {
@@ -1067,15 +1129,15 @@
     "anchor" : "para299"
   }
 }, {
-  "speaker" : "Hon. Eric Hoskins",
-  "text" : [ "In the last decade, in London specifically, we’ve increased our funding to hospitals by $272 million. In addition, as I referred to earlier, we’ve made significant investments as well—almost $100 million in investments—to bring those wait times down, and a significant portion of that in London, and $14 million to the London Health Sciences Centre alone. We are making those important investments.", "As well, I want to reference earlier this week, where the province approved funding in London for the operation of a new mental health and addictions crisis centre—" ],
+  "speaker" : "Eric Hoskins",
+  "text" : [ "In the last decade, in London specifically, we’ve increased our funding to hospitals by $272 million. In addition, as I referred to earlier, we’ve made significant investments as well—almost $100 million in investments—to bring those wait times down, and a significant portion of that in London, and $14 million to the London Health Sciences Centre alone. We are making those important investments.", "As well, I want to reference earlier this week, where the province approved funding in London for the operation of a new mental health and addictions crisis centre—", "Interjection." ],
   "anchor" : "para308",
   "subject" : {
     "text" : "Health care funding",
     "anchor" : "para299"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The member who asked the question, come to order." ],
   "anchor" : "para311",
   "subject" : {
@@ -1083,7 +1145,7 @@
     "anchor" : "para299"
   }
 }, {
-  "speaker" : "Hon. Eric Hoskins",
+  "speaker" : "Eric Hoskins",
   "text" : [ "I know the member opposite is interested in this. The head of Canadian Mental Health Association Middlesex said that this is really great news for folks with mental illness and addictions. It’s a 24-hour walk-in centre that will provide 10 beds for one- to three-day stays for people suffering a crisis who don’t require hospitalization.", "These are the important investments—" ],
   "anchor" : "para312",
   "subject" : {
@@ -1091,7 +1153,7 @@
     "anchor" : "para299"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Thank you.", "New question." ],
   "anchor" : "para314",
   "subject" : {
@@ -1099,7 +1161,7 @@
     "anchor" : "para299"
   }
 }, {
-  "speaker" : "Ms. Sophie Kiwala",
+  "speaker" : "Sophie Kiwala",
   "text" : [ "My question is for the Attorney General. As the minister knows, assisting victims of crime with the respect and services they deserve when they need it the most has always been a priority for our government. I know this is an important issue for the people in Kingston and the Islands, and I’m proud of the support that this government provides.", "In light of our guests who have received recognition for their outstanding efforts in victim services, could the Attorney General please enlighten this House on some of the core services that this government provides to victims of crime through the Victim Crisis Assistance Ontario program?" ],
   "anchor" : "para317",
   "subject" : {
@@ -1107,7 +1169,7 @@
     "anchor" : "para316"
   }
 }, {
-  "speaker" : "Hon. Madeleine Meilleur",
+  "speaker" : "Madeleine Meilleur",
   "text" : [ "Let me say a big thanks to this wonderful MPP from Kingston and the Islands. I know that she’s very, very involved in this very important issue.", "Our government has been and will continue to be a leader in upholding victims’ rights while providing the services they need. Victims in Ontario have timely access to supports such as 24/7 in-person crisis intervention at the request of police; enhanced support for vulnerable victims, including the development of personalized service plans; and referrals to other community supports and services when needed.", "These are just a few examples of exceptional services our government has made available to victims of crime to assist them in their time of need." ],
   "anchor" : "para319",
   "subject" : {
@@ -1115,7 +1177,7 @@
     "anchor" : "para316"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Supplementary?" ],
   "anchor" : "para322",
   "subject" : {
@@ -1123,7 +1185,7 @@
     "anchor" : "para316"
   }
 }, {
-  "speaker" : "Ms. Sophie Kiwala",
+  "speaker" : "Sophie Kiwala",
   "text" : [ "This morning we recognized a group of outstanding individuals involved in the front-line care of victims. The Victim Services Awards of Distinction is an annual ceremony in which the Attorney General presents awards to individuals or organizations that have made significant contributions to the provision of victim services in Ontario.", "I am proud to say that one of the award winners, Pamela Cross, is an accomplished lawyer from my riding, who is well known for her deep commitment to improving women’s access to justice and for her tireless advocacy for abused women right across this province.", "Could the Attorney General please tell us more about these leaders in victim services?" ],
   "anchor" : "para323",
   "subject" : {
@@ -1131,7 +1193,7 @@
     "anchor" : "para316"
   }
 }, {
-  "speaker" : "Hon. Madeleine Meilleur",
+  "speaker" : "Madeleine Meilleur",
   "text" : [ "I was very impressed this morning with these people who work day in and day out for victim services. They are heroes in their respective communities.", "This morning we had these wonderful 15 recipients. They have been nominated for this award because they raised the profile of victims’ issues in Ontario, volunteered countless hours of their time and delivered exceptional services in innovative ways to better serve victims of crime.", "I was very touched this morning to see a group from Sault Ste. Marie who delivered wonderful services last year to the victims’ families from Elliot Lake. I was there with them. I saw first-hand how dedicated they are and how important this service is for the victims. I want to thank them on behalf of the Legislature this morning for everything they do and everything they have done." ],
   "anchor" : "para326",
   "subject" : {
@@ -1139,7 +1201,7 @@
     "anchor" : "para316"
   }
 }, {
-  "speaker" : "Mr. Bill Walker",
+  "speaker" : "Bill Walker",
   "text" : [ "My question is to the Minister of the Environment. Twice in the House this week you referenced the apple industry. As you will be aware, the industry has approached your Liberal government many times, and I have written and spoken in this House about the need to initiate an orchard revitalization program. Yet we receive nothing more than lip service. The industry is eager to rebuild, to increase export prospects and in fact to meet your challenge to the ag sector to create 120,000 jobs. The entire industry can be rejuvenated for an investment of $25 million over seven years.", "Minister, will you do more than spew hot air, and ask your government to commit to supporting an investment in apple growers?" ],
   "anchor" : "para330",
   "subject" : {
@@ -1147,7 +1209,7 @@
     "anchor" : "para329"
   }
 }, {
-  "speaker" : "Hon. Glen R. Murray",
+  "speaker" : "Glen R. Murray",
   "text" : [ "One of the things about climate change is that it is very difficult on farm and farm communities. We know that, which is why we are taking such strong measures in Ontario and working with California, Quebec, British Columbia, Manitoba, New York and many other jurisdictions, because we realize that we’ve got to create better conditions.", "We also know that North Americans are going to be more reliant on Ontario food in the future because of the droughts in places like California, which produces 30% of our food. So we have to work very closely with the farm community, which is why the Ontario Federation of Agriculture has endorsed cap and trade as an option. They realize that there are huge opportunities for farm communities in sequestration and in offsets. They also realize that we’ve got to act on climate change to protect apple production and other important produce in this province." ],
   "anchor" : "para332",
   "subject" : {
@@ -1155,7 +1217,7 @@
     "anchor" : "para329"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Supplementary?" ],
   "anchor" : "para335",
   "subject" : {
@@ -1163,7 +1225,7 @@
     "anchor" : "para329"
   }
 }, {
-  "speaker" : "Mr. Bill Walker",
+  "speaker" : "Bill Walker",
   "text" : [ "Back to the minister: Enough of the verbal fog. You’re quick to find money when it’s politically convenient to cover one of your many boondoggles. However, when the apple industry suffered severe production losses, you offered little more than hollow words and platitudes. If you are sincere, if you really want to make a difference and protect the thousands of jobs in this industry and ensure apples continue to be grown in Ontario, you will do more than exhale hot air into the atmosphere.", "Your last budget failed to recognize this important agriculture partner. Can the apple industry count on an investment being included in today’s budget to ensure the sustainability of this key agriculture partner and healthy food source? Or is it simply more hot air that will save the planet?" ],
   "anchor" : "para336",
   "subject" : {
@@ -1171,7 +1233,7 @@
     "anchor" : "para329"
   }
 }, {
-  "speaker" : "Hon. Glen R. Murray",
+  "speaker" : "Glen R. Murray",
   "text" : [ "We have the agri-food fund, Mr. Speaker.", "But I want to take a moment here because Don McCabe and the Ontario Federation of Agriculture are on the minister’s action group. They are there for one reason: The money that comes to us through our climate strategy has to be reinvested back into things like electrification of public transit, but it also has to go to help farmers and businesses adapt, which is so critical.", "Mr. Speaker, the member opposite is a member of a party which—we cannot understand what their position is on climate change. They seem to have no understanding at all of the risks involved or the damage.", "Just two days ago, the federal government—" ],
   "anchor" : "para338",
   "subject" : {
@@ -1179,7 +1241,7 @@
     "anchor" : "para329"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The member from Bruce–Grey–Owen Sound come to order." ],
   "anchor" : "para343",
   "subject" : {
@@ -1187,7 +1249,7 @@
     "anchor" : "para329"
   }
 }, {
-  "speaker" : "Hon. Glen R. Murray",
+  "speaker" : "Glen R. Murray",
   "text" : [ "—tabled a budget that had no support for farmers and climate change, that had not a red penny—" ],
   "anchor" : "para344",
   "subject" : {
@@ -1195,7 +1257,7 @@
     "anchor" : "para329"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Thank you." ],
   "anchor" : "para345",
   "subject" : {
@@ -1203,7 +1265,7 @@
     "anchor" : "para329"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Stop the clock. I’m also asking the member from Huron–Bruce and the member from Stormont–Dundas–South Glengarry to come to order. I’ve asked you twice.", "The member from Nickel Belt." ],
   "anchor" : "para347",
   "subject" : {
@@ -1219,7 +1281,7 @@
     "anchor" : "para349"
   }
 }, {
-  "speaker" : "Hon. Eric Hoskins",
+  "speaker" : "Eric Hoskins",
   "text" : [ "I’ve had quite a number of conversations with our nurses and the associations that represent them about this specific challenge. We need to admit that it’s not just nurses alone; it’s other health care practitioners in certain environments. It’s an issue of recruitment and retention that the ministry and I are looking at very seriously. It’s important to address effectively.", "Also, I have to go back to the Hansard yesterday and the member opposite’s claim. I want to be helpful and perhaps help her to correct her own record where she talked about the claim that Sudbury was cutting 42 positions. Once again, I’m happy to go through each hospital just to help the member opposite understand what the truth is. Health Sciences North in Sudbury has confirmed that no nurses will lose their jobs. In fact, none of the efficiency measures are expected to result in nurses being laid off at the hospital. The hospital’s statement that they issued said—I’ll continue with this in supplementary." ],
   "anchor" : "para353",
   "subject" : {
@@ -1227,7 +1289,7 @@
     "anchor" : "para349"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Supplementary?" ],
   "anchor" : "para355",
   "subject" : {
@@ -1243,7 +1305,7 @@
     "anchor" : "para349"
   }
 }, {
-  "speaker" : "Hon. Eric Hoskins",
+  "speaker" : "Eric Hoskins",
   "text" : [ "Before we came into office, there were no nurse practitioner-led clinics. Now we have 25 clinics around the province serving thousands and thousands of Ontarians.", "But to get back to Health Sciences North, it said that it anticipates that no nurses—not the 42, as claimed by the member opposite—will have to leave the system. There are also an additional 44 vacancies for registered nurses and registered practical nurses.", "To get back to Lakeridge hospital, perhaps the member didn’t hear. She does have the chance to correct her record, of course, of calling it a “devastating impact on quality of care.” According to her, 20% of the staff doing genetics at Lakeridge are being laid off. In fact, the hospital has disagreed. Patients will not be impacted. In fact, patient care will be dramatically improved because they’re using better technology, better tests, faster results, and all three individuals she’s talking about still have jobs." ],
   "anchor" : "para358",
   "subject" : {
@@ -1251,7 +1313,7 @@
     "anchor" : "para349"
   }
 }, {
-  "speaker" : "Mr. Glenn Thibeault",
+  "speaker" : "Glenn Thibeault",
   "text" : [ "My question is for the Minister of Labour. Ontario’s mining sector directly employs 27,000 Ontarians and supports a further 50,000 jobs through its supply chain and support activities. Our mining sector is the strongest in Canada, with a total production topping $10.7 billion. It’s clear that Ontario’s mining employers are benefiting greatly from the skills and hard work of the men and women who work in our mines.", "Minister, in 2013, your ministry convened a Mining Health, Safety and Prevention Advisory Group to review mining practices in the province. Recently, the minister was in Sudbury to announce the completion of this advisory group’s work. Will the minister please enlighten this House as to the results of that review?" ],
   "anchor" : "para362",
   "subject" : {
@@ -1259,7 +1321,7 @@
     "anchor" : "para361"
   }
 }, {
-  "speaker" : "Hon. Kevin Daniel Flynn",
+  "speaker" : "Kevin Daniel Flynn",
   "text" : [ "I’d be very, very happy to do that, and thank you to the honourable member for that excellent question.", "I was pleased to be joined recently by the honourable member from Sudbury and Ontario’s Chief Prevention Officer. We opened the mining workplace health and safety conference and we accepted the final report that was put forward by the Mining Health, Safety and Prevention Advisory Group.", "This excellent report contains 18 recommendations on how the mining sector can be improved. I’m proud to say that this government accepts each and every one of those recommendations. Some of the final recommendations:", "Employers will have formal water management programs in place.", "Workplaces will enhance ground control protections to track and monitor seismic activity.", "The ministry will work with employers and labour to conduct regular mining sector risk assessments.", "Employers will have plans in place to manage hazards that cause occupational disease.", "This isn’t the end of the process. It’s part of continuous work that’s going to go on to make Ontario’s mines the safest in Canada." ],
   "anchor" : "para364",
   "subject" : {
@@ -1267,7 +1329,7 @@
     "anchor" : "para361"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Supplementary?" ],
   "anchor" : "para372",
   "subject" : {
@@ -1275,7 +1337,7 @@
     "anchor" : "para361"
   }
 }, {
-  "speaker" : "Mr. Glenn Thibeault",
+  "speaker" : "Glenn Thibeault",
   "text" : [ "Ontario’s mining community will be pleased to know that the government is making the health and safety of Ontario’s miners such an important priority.", "I understand that the mining workplace health and safety conference based much of their discussion around the report and its recommendations, and that the announcement was well received by all of the stakeholders, particularly in my community of Sudbury.", "Speaker, through you back to the Minister of Labour, can the minister please outline some of the things people are saying in reaction to the Mining Health, Safety and Prevention Advisory Group’s final report?" ],
   "anchor" : "para373",
   "subject" : {
@@ -1283,7 +1345,7 @@
     "anchor" : "para361"
   }
 }, {
-  "speaker" : "Hon. Kevin Daniel Flynn",
+  "speaker" : "Kevin Daniel Flynn",
   "text" : [ "The honourable member is absolutely correct: The report, based on the work of the people who did it, is receiving praise from right across the mining sector, from employers and labour groups alike.", "Let me give you some of the quotes. This comes from Wendy Fram, the mother of a young man who was tragically killed in a mining accident. She says, “I am pleased that the government has listened to the mining community and is taking positive action to make Ontario’s underground mines safer.”", "John Perquin from the United Steelworkers: “The health and the lives of the thousands of women and men who work in the mining industry in Ontario are dependent upon the improvements being recommended.”", "Chris Hodgson from the Ontario Mining Association itself: “These recommendations bring us closer to the goal we all share of zero harm in the workplace.”", "“We believe that the recommendations that have been put forward in the report will assist Vale and all companies within Ontario’s mining sector in becoming safer places to work.” That comes from Angie Robson from Vale.", "These are just a few examples of what’s being said about this excellent review based on the hard work of everybody in Ontario’s mining industry." ],
   "anchor" : "para376",
   "subject" : {
@@ -1291,7 +1353,7 @@
     "anchor" : "para361"
   }
 }, {
-  "speaker" : "Mr. Todd Smith",
+  "speaker" : "Todd Smith",
   "text" : [ "My question this morning is for the Minister of the Environment and Climate Change. On Monday the Ontario Court of Appeal ruled against your ministry and in favour of the Prince Edward County Field Naturalists in their quest to keep an industrial wind turbine factory from destroying the delicate ecosystem on the south shore of Prince Edward county. The opinion by the court stated that the Environmental Review Tribunal was correct in using expert evidence that showed the project would result in serious and irreversible harm to the ecosystem when it refused to grant approval to this project back in 2013.", "Minister, will you do the right thing in this case? Will you save the Blanding’s turtle? Will you protect the environment in Prince Edward county? Will you prevent your ministry from wasting further taxpayer resources by refusing to join any more appeals launched by the developer Ostrander Point GP Inc.?" ],
   "anchor" : "para384",
   "subject" : {
@@ -1299,7 +1361,7 @@
     "anchor" : "para383"
   }
 }, {
-  "speaker" : "Hon. Glen R. Murray",
+  "speaker" : "Glen R. Murray",
   "text" : [ "I love Blanding’s turtles, and I want to commend the people of your constituency for their activism. We have a very good process of environmental assessment and a court process with our Environmental Bill of Rights. It’s one of the best in the world. This minister respects that and thinks that the people should come out ahead in these processes.", "I cannot comment in detail because of my role, and I think the member knows the restrictions that I have. I will go one further though, because this is something that’s important to me. I would be quite happy to meet with you, because I think we have larger issues of biodiversity loss with climate change. We have challenges right now with neurotoxic pesticides that are impacting amphibians and water invertebrates, and these issues are becoming more acute. There are some other environmental concerns with other species that I think we both share." ],
   "anchor" : "para386",
   "subject" : {
@@ -1307,7 +1369,7 @@
     "anchor" : "para383"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Supplementary?" ],
   "anchor" : "para388",
   "subject" : {
@@ -1315,7 +1377,7 @@
     "anchor" : "para383"
   }
 }, {
-  "speaker" : "Mr. Todd Smith",
+  "speaker" : "Todd Smith",
   "text" : [ "Minister, this isn’t just another community group that’s opposing this project, although I thank you for commending their efforts in Prince Edward county. One of the intervening parties that joined the Field Naturalists in Prince Edward county was Nature Canada.", "Your ministry has known for years that this project would destroy the ecosystem in southern Prince Edward county, and you’ve not only turned a blind eye to the fact; you’ve actively committed taxpayer resources to help the developer destroy an ecosystem.", "Your own experts, Minister, at the Ontario Environmental Review Tribunal, the Ontario Court of Appeal and Nature Canada—who, by the way, do believe in wind power, just not at this particular site—are telling you that this project is environmentally destructive.", "Will you commit here today that the Ministry of the Environment will not waste any more taxpayer resources in aiding the developer in further appeals for this project, either in court or at the ERT? Will you do that? End taxpayers’ involvement, end your ministry’s involvement, quit the shell game and end this in Prince Edward county." ],
   "anchor" : "para389",
   "subject" : {
@@ -1323,7 +1385,7 @@
     "anchor" : "para383"
   }
 }, {
-  "speaker" : "Hon. Glen R. Murray",
+  "speaker" : "Glen R. Murray",
   "text" : [ "The role of the environment minister is the end of an adjudicative process with environmental assessments and other things. It would prejudice any process for me to comment on that specifically. But to say that I am not concerned about it would be quite wrong.", "I would go further because, as I said earlier, I would describe what we’re facing right now on this planet as a biodiversity crisis. We are tracking to lose about one third of our species right now on this planet, and it’s very serious. You talk to farmers; you talk to folks who have cottages. We are losing species at an unprecedented rate.", "I cannot talk about the specifics of this, but I do believe the member is sincere in the concern, as are his constituents, and I would be happy to meet privately with him to discuss this because I do believe that I’m accountable to him and other members. I wish I could be more forthcoming but I can’t without compromising my position as minister." ],
   "anchor" : "para393",
   "subject" : {
@@ -1331,7 +1393,7 @@
     "anchor" : "para383"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Pursuant to standing order 38(a), the member from Leeds–Grenville has given notice of his dissatisfaction with the answer to his question of the Premier concerning the government beer sale plan. This matter will be debated at 6 p.m. on Tuesday." ],
   "anchor" : "para397",
   "subject" : {
@@ -1339,7 +1401,7 @@
     "anchor" : "para396"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The Minister of Training, Colleges and Universities, on a point of order." ],
   "anchor" : "para399",
   "subject" : {
@@ -1347,7 +1409,7 @@
     "anchor" : "para398"
   }
 }, {
-  "speaker" : "Hon. Reza Moridi",
+  "speaker" : "Reza Moridi",
   "text" : [ "Mr. Speaker, it is my privilege to welcome to the House my former high school teacher Mr. Hassan Ali Vahid, accompanied by his granddaughter Ms. Negar Hashemi, who is a lawyer and also president of the Iranian Women’s Organization of Ontario, and Mr. Shahram Basiri." ],
   "anchor" : "para400",
   "subject" : {
@@ -1355,7 +1417,7 @@
     "anchor" : "para398"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "There are no deferred votes. This House stands recessed until 1 p.m." ],
   "anchor" : "para401",
   "subject" : {
@@ -1363,23 +1425,23 @@
     "anchor" : "para398"
   }
 }, {
-  "speaker" : "Mrs. Lisa Gretzky",
+  "speaker" : "Lisa Gretzky",
   "text" : [ "I would like to introduce Ausma Malik and Marit Stiles, who are both Toronto District School Board trustees who will be joining us in the gallery later today.", "I would also like to introduce James Ryan, who is the president of the Ontario English Catholic Teachers Association. I believe James will also be joining us in the gallery later." ],
   "anchor" : "para404",
   "subject" : {
-    "text" : "Visitors",
-    "anchor" : "para398"
+    "text" : "Introduction of Visitors",
+    "anchor" : "para403"
   }
 }, {
-  "speaker" : "Mrs. Gila Martow",
+  "speaker" : "Gila Martow",
   "text" : [ "I just want to mention that we were out in the cold for the flag-raising for Israel Independence Day today, Yom Ha’atzmaut, with Israeli Consul D.J. Schneeweiss and my friends Mira Hamat and Randy Maxwell. Thank you for coming, everybody." ],
   "anchor" : "para406",
   "subject" : {
-    "text" : "Visitors",
-    "anchor" : "para398"
+    "text" : "Introduction of Visitors",
+    "anchor" : "para403"
   }
 }, {
-  "speaker" : "Mrs. Julia Munro",
+  "speaker" : "Julia Munro",
   "text" : [ "Today I would like to bring a voice from the riding of York–Simcoe into this House. The first-hand accounts of my constituents are very important to me, but they’re also growing daily.", "People are telling me how getting by under the policies of this government is becoming more and more difficult. More and more constituents are telling me they can’t make ends meet. Scarcity of good jobs; the cost of living—these are common themes. But my constituents say that the price of electricity is causing them the most trouble.", "One constituent wrote, “I try to conserve energy by using only one light in the house in the evening, no lights during the day, use cold water to do my laundry during off-peak hours, seldom use my dishwasher, cook meals every other night and microwave leftovers the second night. During the winter months, I keep my house at 17 degrees Celsius during the night and from 18 to 20 degrees during the day, open all the blinds to let sunlight in during the winter to increase heat and close blinds in the summer to keep heat out. My furnace is checked to make sure it is efficient.... I must keep my house relatively cool and humidity down in the summer. Electrical appliances have been replaced....", "“I expect that my hydro bill will increase by at least $100 a month next year. That number does not include any increase of hydro rates that Hydro One may get permission to add.”", "These are real people having these difficulties. It’s important for us to recognize what we are doing to the people of Ontario." ],
   "anchor" : "para409",
   "subject" : {
@@ -1387,7 +1449,7 @@
     "anchor" : "para408"
   }
 }, {
-  "speaker" : "Mr. Wayne Gates",
+  "speaker" : "Wayne Gates",
   "text" : [ "I’d like to rise today and discuss the passing of Niagara Falls firefighter Tim Hoday, who died in the line of duty. I want to send my condolences to his friends and family, who were present at an incredibly moving funeral that was held in his honour.", "I’d like to recognize the Niagara Falls Fire Department and the Niagara Falls Professional Firefighters Association for organizing such a moving tribute. I’d also like to thank all firefighters and emergency personnel from across the province who made their way to Niagara to pay their respects to Brother Hoday.", "Tim passed away from a workplace cancer that he contracted through his years in the line of duty for his community. Tim’s passing highlights how far we’ve come in the need to ensure that the injuries that our first responders are vulnerable to are covered, but also how much further we need to go, especially when it comes to the issue of PTSD for first responders, an illness which still isn’t covered.", "These brave men and women put their lives on the line to serve our communities, and for that they deserve our respect. I am always proud to stand in this House and support our local first responders.", "This Legislature has made great strides when it comes to workplace illness coverage. When it comes to our first responders, who put their lives on the line for us, we should never stop working at trying to make all workplaces safer and expanding coverage to those affected by work-related illness." ],
   "anchor" : "para415",
   "subject" : {
@@ -1395,7 +1457,7 @@
     "anchor" : "para414"
   }
 }, {
-  "speaker" : "Mrs. Kathryn McGarry",
+  "speaker" : "Kathryn McGarry",
   "text" : [ "I rise today with a heavy heart to acknowledge the 100th anniversary of the Armenian genocide, which began on April 24, 1915. Today, on behalf of Cambridge constituents, I want to pay homage to those who perished and suffered in the Ottoman Empire. Some 1.5 million Armenians were killed between 1915 and 1923. Many millions more were displaced and affected by the deaths of their families and friends. Many Armenians immigrated to southern Ontario where they contribute greatly to the diversity and vitality of our communities.", "This past Sunday, I was honoured to attend an event in my riding of Cambridge to mark the centennial of this tragedy. The event was held at the Cambridge Armenian Community Center, the largest Armenian centre in the southwest region. I was pleased to be invited by Saro Sarmazian from the Armenian National Committee of Southwestern Ontario.", "I was one of five MPs, two MPPs—including my colleague across the way—and a local city councillor who spoke in memory of the Armenian genocide. People from all around southwestern Ontario and even as far away as Michigan came to share stories from their families and contribute to the healing process.", "When we come together in remembrance of atrocities like the Armenian genocide, we take a stand against unspeakable acts of violence. I encourage all my colleagues and all Ontarians to take a moment tomorrow to look back upon the Armenian genocide and remember those who have senselessly suffered." ],
   "anchor" : "para421",
   "subject" : {
@@ -1403,7 +1465,7 @@
     "anchor" : "para420"
   }
 }, {
-  "speaker" : "Mr. Michael Harris",
+  "speaker" : "Michael Harris",
   "text" : [ "It is with great sadness that I stand with the Armenian Canadian community here in the Ontario Legislative Assembly today to commemorate the 100th anniversary of the Armenian genocide.", "The systematic deportations and massacres of Armenians from their historic homelands began on April 24, 1915, by order of the Ottoman Empire. Hundreds of Armenian public figures, politicians, clergymen, educators and artists were arrested and executed in the capital or sent into exile.", "In the next phase of the genocide, Armenian people were taken from their homes and forced to march for hundreds of miles without food and water into the Syrian desert, later to be killed. This horrendous tragedy took the lives of over one and a half million Armenians.", "On April 24, people of Armenian descent all over the world recall the memorials and memories of the Armenian genocide—what has been called the first genocide of the 20th century. This tragic history must never be forgotten and it must never be denied. Such terrible acts of hatred cannot be tolerated in a democratic society.", "Just last week, Pope Francis said it was “necessary, and indeed a duty” to remember the Armenians killed, “for whenever memory fades, it means that evil allows wounds to fester. Concealing or denying evil is like allowing a wound to keep bleeding without bandaging it.”", "As MPP for Kitchener–Conestoga, I would like to assert that I stand shoulder-to-shoulder with our Armenian community as you observe this most solemn occasion." ],
   "anchor" : "para426",
   "subject" : {
@@ -1411,7 +1473,7 @@
     "anchor" : "para425"
   }
 }, {
-  "speaker" : "Mrs. Lisa Gretzky",
+  "speaker" : "Lisa Gretzky",
   "text" : [ "The John McGivney Children’s Centre preschool program in my riding of Windsor West is much too important to lose.", "The preschool program offers a highly-specialized setting for children in their early years and teaches families best practices when caring for children with special and, in many cases, complex needs. Graduates of the program go on to the John McGivney Children’s Centre School or attend a neighbourhood school, and all are proud ambassadors of this program in our community.", "Program participants benefit from dedicated teachers and the preschool is placed to take advantage of the highly trained staff and state-of-the-art facilities offered at the John McGivney centre.", "This one-of-a-kind program is a jewel of southwestern Ontario and services families from Windsor, Tecumseh, Essex and even as far as Leamington. It’s no wonder that, when the program announced it would need to close due to a provincial funding shortfall, so many in Windsor and Essex county united to keep the program open.", "Whether it was young Gabby Wilkinson, who launched a GoFundMe page, Brianne Deneau who quickly started an online petition, or all of the concerned parents and community members who dropped off a signed petition at my office, it was clear that this program had the overwhelming support of the community.", "It is truly unfortunate that this year’s class will be the last to graduate from this outstanding program. I hope everyone in this chamber can recognize the value of this program and the need to make up any funding shortfall to ensure that it can continue to service children with special needs and their families across southwestern Ontario.", "Speaker, it’s a privilege to voice the concerns of my constituents here at Queen’s Park. On this issue, the simple and overwhelming consensus is that the John McGivney Children’s Centre is just too important to lose." ],
   "anchor" : "para433",
   "subject" : {
@@ -1419,7 +1481,7 @@
     "anchor" : "para432"
   }
 }, {
-  "speaker" : "Ms. Soo Wong",
+  "speaker" : "Soo Wong",
   "text" : [ "I rise in the House to recognize Toronto’s outgoing chief of police and one of Scarborough’s very own, Chief Bill Blair.", "Chief Blair spent his early years in my riding of Scarborough–Agincourt, where he attended Sir John A. Macdonald Collegiate Institute—known there by many as football star “Blee.”", "Chief Blair’s 35-year policing career began as a foot patrol officer in Regent Park. He would continue on with assignments in drug enforcement, organized crime and major criminal investigations, but he never forgot his roots, eventually returning to Regent Park as Division 51 superintendent in 1995.", "In 1996, I met the young and energetic Superintendent Blair at a Regent Park school event. Speaking with Councillor Pam McConnell after the event, I predicted that one day, Bill Blair would become Toronto’s chief of police. Clearly, he left an impression on me at that time.", "In April 2005, he was appointed as Toronto’s ninth chief of police. Over his 10 years as chief, Bill Blair has modernized the police service, improved community relations and supported diversity and inclusion within the service and broader community. This includes being the first Toronto chief of police to walk in the Pride Parade and increasing the percentage of women and visible minorities employed on the force.", "As we thank Chief Blair for his exceptional dedication, we welcome Toronto’s 10th chief of police, Mark Saunders." ],
   "anchor" : "para442",
   "subject" : {
@@ -1427,7 +1489,7 @@
     "anchor" : "para441"
   }
 }, {
-  "speaker" : "Mrs. Gila Martow",
+  "speaker" : "Gila Martow",
   "text" : [ "Last week, we remembered the Jewish victims of the Holocaust on Yom ha-Shoah. Yesterday, we remembered those who died to recreate the Jewish homeland on Yom Hazikaron. Today, we celebrate the re-establishment of the Jewish state, the creation of the state of Israel, on Yom Ha’atzmaut.", "My maternal grandparents travelled to the British territory of Palestine in the early 1930s with groups of their friends from Hashomer Hatzair, a Zionist youth organization, to establish one of the early kibbutz co-operatives. By planting trees, building homes and having children of their own, these pioneers helped Israel grow into the flourishing land and democracy that we know today.", "We all bear witness to the result. Israel is the only true democracy in the Middle East. There are Arab members of Parliament, women in the army, and those of any sexual orientation are celebrated. It’s these values that Canadians and Israelis share, and these shared values that enable the unique relationship between our two great countries. It’s for all of these reasons that we’ve come together to celebrate Israel today and why we must remain vigilant for the anti-Semitism and persecution that continue to persist.", "Regretfully, Al-Quds Day has been celebrated for several years on the grounds of the provincial Legislature, the very institution that acts to protect the rights and dignity of each and every single Ontarian. Mr. Speaker, it is your duty to ensure that a gathering of such a reprehensible nature will not be permitted near our institution. Am Yisroel Chai." ],
   "anchor" : "para449",
   "subject" : {
@@ -1435,7 +1497,7 @@
     "anchor" : "para448"
   }
 }, {
-  "speaker" : "Ms. Indira Naidoo-Harris",
+  "speaker" : "Indira Naidoo-Harris",
   "text" : [ "I’m pleased to rise today to talk about a very special event in my riding of Halton, an event in which three chambers of commerce came together and showcased Halton’s economic strength. It was also a perfect introduction to the innovative leaders we have working in our business community.", "The luncheon began with a speech from the Premier, our guest of honour. The event was hosted by the Milton, Oakville and Burlington Chambers of Commerce. Together, these chambers represent nearly 3,000 businesses throughout Halton. They foster innovation, attract new investments and encourage the talent, creativity and dedication of Halton’s business community to create new economic opportunities and keep our region at the forefront of economic growth. I commend the chambers on their ability to collaborate and closely work together, and put on a successful event.", "Following the event, we had an opportunity to engage with leaders of the local business community, leaders like Damion and Kevin, long-time friends who founded Orange Snail Brewers, Milton’s first craft brewery. These two young gentlemen perfectly represent the talented, motivated and innovative individuals who are creating jobs, supporting their local communities and helping to grow Ontario’s economy. These are exactly the kinds of businesses and the kinds of business owners that our government is committed to supporting, because when they succeed, Ontario succeeds.", "The day ended in Burlington at the Canadian-Croatian Chamber of Commerce business awards. Speaker, the entire day was a wonderful reminder of the strength and diversity of Halton’s economic climate." ],
   "anchor" : "para454",
   "subject" : {
@@ -1443,7 +1505,7 @@
     "anchor" : "para453"
   }
 }, {
-  "speaker" : "Ms. Eleanor McMahon",
+  "speaker" : "Eleanor McMahon",
   "text" : [ "I rise in the House today to acknowledge and congratulate the Nexxice Synchronized Skating Club, based out of the Burlington skating club in my riding.", "This winter, I had the privilege to watch the Nexxice novice team in action as they performed at my first annual Family Day Fun Skate at Mainway arena. Their team motto, “Connected in the pursuit of excellence,” is fitting, if you’ve ever watched them glide across the ice in unison. They are the personification of grace and athleticism.", "On April 10 and 11, the Nexxice senior team competed against 25 teams from 20 different countries at the ISU World Synchronized Skating Championships in Hamilton. Led by coach Shelley Burnett and choreographer Anne Schelter, for the first time in six years on home ice, on national television, Nexxice took home the first gold for Canada since 2009—so exciting.", "The event marked the largest crowd ever for the synchro world championships, with over 7,000 fans in attendance. Each team is comprised of 16 skaters, and they must perform two programs and fulfil several program and technical components, making for a very entertaining event.", "Nexxice produced two perfect skates. Skating to Mud by the Road Hammers in the short, Nexxice got the hometown crowd going. Performing to Gershwin’s Rhapsody in Blue in the free program, they skated with beautifully executed lifts and clean lines from start to finish, landing them in first place as the new world champs.", "I speak on behalf of everyone in attendance when I say that this team and their coaches have worked so hard to get where they are today. I congratulate each and every one of them on their recent gold medal at the ISU World Championships.", "Go, Nexxice, go." ],
   "anchor" : "para459",
   "subject" : {
@@ -1451,7 +1513,7 @@
     "anchor" : "para458"
   }
 }, {
-  "speaker" : "L’hon. Glen R. Murray",
+  "speaker" : "Glen R. Murray",
   "text" : [ "J’ai le plaisir de prendre la parole aujourd’hui pour célébrer la Semaine de la Terre. Hier j’ai participé à un événement du Jour de la Terre avec plusieurs amis et collègues ici même, à Queen’s Park, et nous nous sommes engagés à réduire notre empreinte carbone et faire le « Jour de la Terre, tous les jours ».", "Le premier Jour de la Terre a eu lieu le 22 avril 1970. Depuis ce premier événement, le Jour de la Terre a évolué pour devenir un mouvement mondial dans le cadre duquel 192 pays tiennent des événements du Jour de la Terre.", "anniversaire cette année et son objectif est d’inciter les gens de partout au pays à participer à un effort national visant à réduire leur empreinte carbone de 20 % d’ici 2020.", "Il me fait plaisir de confirmer que l’Ontario atteint ses objectifs de réduction des gaz à effet de serre. Mon ministère travaille à la rédaction de notre prochaine stratégie exhaustive en matière de changement climatique afin de s’assurer que nous continuons d’atteindre nos objectifs. Notre gouvernement prend des mesures et ne se contente pas de parler de protection de l’air, du sol et de l’eau de l’Ontario.", "Le plus récent rapport de l’inspectrice en chef de l’eau potable montre que 99,83 % des analyses d’eau potable soumises par les municipalités ont donné des résultats qui satisfaisaient aux normes strictes de qualité de l’eau potable de l’Ontario.", "In addition, we are nearing the completion of our source water protection plans, with Essex as our newest and 16th approved source water protection plan.", "The 2013 air quality report confirms that our air quality has improved significantly. For the first time in 20 years, no smog advisories were issued in Ontario due to ozone. To provide even more protection for our environment and for the earth in general, our province took another important step forward last week by announcing its intent to join California and Quebec to reduce damaging greenhouse gas pollution by way of emissions trading in a carbon market. A cap-and-trade system will build on the progress we have already made—such as closing our coal plants, the single largest GHG-reduction initiative in North America—and continuing to electrify our public transit systems.", "pollution is driving unprecedented climate change. Ocean and lake acidification, and deforestation, remind us how much more we have to do and how little time we have to do it in. But we can and must succeed, Mr. Speaker.", "I want to take this moment to recognize the initiatives of my Premier, Premier Wynne; and our colleagues Premier Couillard and Governor Brown, whose international leadership on fighting climate change is an expression of the values we celebrate during Earth Week. I encourage all Ontarians to join me in following their leadership and making Earth Day every day." ],
   "anchor" : "para468",
   "subject" : {
@@ -1459,7 +1521,7 @@
     "anchor" : "para467"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "It’s now time for responses." ],
   "anchor" : "para478",
   "subject" : {
@@ -1467,7 +1529,7 @@
     "anchor" : "para467"
   }
 }, {
-  "speaker" : "Ms. Lisa M. Thompson",
+  "speaker" : "Lisa M. Thompson",
   "text" : [ "It’s my pleasure to speak to the 45th Earth Day, that was celebrated yesterday. Earth Day is an initiative that takes place in over 190 countries across the world, all who show their support for environmental protection.", "Across Ontario, there are events being held throughout the week in celebration. I know, in my riding of Huron–Bruce this week, there will be many schools participating in programs to encourage students to be environmentally aware.", "For instance, just last Monday, St. Anthony’s School in Kincardine celebrated Earth Day early with a TerraCycle presentation, a donation to the biodegradable program, and a school-wide community cleanup effort. It was a great initiative put forth by the students, teachers and volunteers who helped to clean up the neighbourhood around the school. Additionally, Chalmers Community Church donated $300 to the school to support green initiatives, such as updating their outdoor classroom and garden. In Port Elgin last night, at the public library, they hosted an Earth Day drop-in craft session, where children came and built crafts out of recycled materials.", "These types of initiatives are celebrated in my community, and I greatly appreciate all the effort staff and volunteers put towards these programs.", "I’d be remiss if I didn’t say I was speaking to my husband on Tuesday evening, and he said, “Don’t forget about the special day tomorrow.” Jokingly, I said, “Earth Day?” He said, “Of course.” But it was also his birthday.", "I mention my husband because on Saturday morning, the entire Schiestel clan, in memory of Dennis’s parents, will be participating in a roadside cleanup along Bruce Road 6. It’s an annual thing that we do every year." ],
   "anchor" : "para479",
   "subject" : {
@@ -1475,7 +1537,7 @@
     "anchor" : "para467"
   }
 }, {
-  "speaker" : "Ms. Lisa M. Thompson",
+  "speaker" : "Lisa M. Thompson",
   "text" : [ "Thank you.", "It’s important that we educate our public, especially our youth, on the importance of being environmental stewards. I just recently met with Earth Rangers, a great program here in Canada that engages youth across Canada to care about their environment. Peter Kendall, the executive director, shared with me that more than 270,000 kids have worked together to raise over $1.6 million for the Bring Back the Wild conservation project. This is an amazing achievement. The education that programs such as Earth Rangers provide is fundamental inspiration to the next generation of environmental stewards.", "In speaking to Peter, it reminded me of a program that is close to my heart—everybody knows it—the 4-H program in Ontario. It, too, is an excellent incubator, if you will, of environmental stewards.", "It’s important that we do have a day to raise awareness for just how important our environment is. It affects everyone and truly, every day should be Earth Day.", "Now I’d like to move on to speaking about the environment in a little bit more detail, with a political perspective on it. The environment should never be a political partisan issue. It should never be something that people should use for perceived political gain. However, that is something that I’m afraid I see, day in and day out, with this government. The environment is far too important to play games with.", "We saw, just a few weeks back, when the Liberals came out with a news conference and press release claiming the PCs didn’t care about the environment. But nothing could be further from the truth. I would like to remind everyone, in the spirit of Earth Day, that it was the PC Party of Ontario that created the Ministry of the Environment. In 2001, Ontario’s former Minister of the Environment, Elizabeth Witmer, issued a regulation requiring the phase-out of coal-burning at the Lakeview generating station, which reduced the province’s total coal-fired electricity generation capacity by 15%.", "Subsequently, in 2003, the Liberals ran on a campaign that promised to end coal-fired electricity generation in the province by 2007. Ten years after the announcement, and six years past the deadline, we have finally realized that. So, yes, it is nice to cheer about the elimination of coal-powered plants, but we also must acknowledge how poorly this file has been managed.", "I would just like to share with you, Speaker, that it was the PC Party of Ontario that created wetlands and stands for conservation, and we are an environmental party right here in Ontario. I just wish the other side of the House would recognize that.", "In terms of cap-and-trade, I have to share with you, Speaker, that never, ever would we use the seriousness of Earth Day and caring for our environment as an excuse to introduce a revenue tool for a cash-strapped government.", "In conclusion, I want to circle back to Earth Day, and I want to reiterate the importance of environmental awareness. Thank you to everyone who has participated in environmental awareness and initiatives this week. We all can do our part. Here’s to maintaining Earth Day 365 days a year." ],
   "anchor" : "para486",
   "subject" : {
@@ -1483,7 +1545,7 @@
     "anchor" : "para467"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Further responses?" ],
   "anchor" : "para496",
   "subject" : {
@@ -1491,7 +1553,7 @@
     "anchor" : "para467"
   }
 }, {
-  "speaker" : "Mr. Peter Tabuns",
+  "speaker" : "Peter Tabuns",
   "text" : [ "I’m pleased to rise today to speak on the occasion of Earth Week. As you’re well aware, Speaker, the challenges that our province faces are very broad, very deep. I want to address just two of those challenges.", "The economic impact of global warming is projected by the British government to be comparable to the impact of World War II or the Great Depression. That projection was put forward in 2006. The science has become gloomier since then, and I would say the challenges we face are on a larger scale.", "As you’re well aware, Speaker, except for the coal phase-out, that was supported by all parties in this Legislature, the Liberal approach to global warming has simply been adrift for a number of years. As big as the coal phase-out was, it was not enough to allow Ontario to meet its greenhouse gas emission reductions. It took the recession and large-scale loss of industry to actually bring us to the reduction that we needed, but we currently don’t have a plan to meet the targets that were set for the year 2020.", "For those who disagree with my analysis, I urge them to read the reports of the Environmental Commissioner of Ontario, over the last five years, who chronicled the weaker and weaker response of the Liberal government to global warming.", "The urgency of the problem has mounted. My hope is that the government will bring forward a useful and ambitious plan for action this year.", "For our part, we in the NDP intend to hold the government to account for a plan that must be fair, must be effective and must be transparent. All of those conditions need to be part of a plan that will actually make a difference to people in Ontario and make sure that the burden of whatever efforts are undertaken is equitably shared amongst the people and the economic sectors of this province.", "I want to speak as well about the health of the Great Lakes. I had an opportunity recently to go on for about an hour on that matter, but I want to speak particularly about the fact that we, in the NDP, have supported the creation of a Great Lakes protection act for many years. We will be happy when an act—and I think there will be some amendments to whatever act comes forward—when a suitably amended act that will be stronger is passed.", "But we are not happy that the government still plans to bury nuclear waste in the watershed of Lake Huron. Residents are not happy; environmental groups are not happy; legislators in Michigan, Illinois, Ohio, New York and Indiana are not happy. The only one happy seems to be the government of Ontario.", "Why would a minister who has tabled the Great Lakes Protection Act be happy to let a government agency bury nuclear waste in the watershed of Lake Huron? It makes no sense to put that nuclear waste there.", "If the plan made little sense to begin with, it makes even less sense now. We now know that the plan involves deadlier nuclear waste and more of it than was originally proposed. We now know that the waste storage technology is even riskier than we thought after the accident that occurred in New Mexico in the Americans’ nuclear waste dump a few years ago, using the technology that Ontario Power Generation is promoting. We now know that provincial officials met with local officials behind closed doors in meetings that were found to have violated the law.", "This government controls Ontario Power Generation. It can set direction for these technologies, for these actions. It needs to set direction and action for this particular project. It needs to act on the climate. It needs to protect the Great Lakes. It should be using the powers that are in its hands to take that action." ],
   "anchor" : "para497",
   "subject" : {
@@ -1499,7 +1561,7 @@
     "anchor" : "para467"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "I thank all members for their statements." ],
   "anchor" : "para509",
   "subject" : {
@@ -1507,7 +1569,7 @@
     "anchor" : "para467"
   }
 }, {
-  "speaker" : "Mrs. Kathryn McGarry",
+  "speaker" : "Kathryn McGarry",
   "text" : [ "I have a petition addressed to the Legislative Assembly of Ontario.", "“Whereas there are no mandatory requirements for teachers and school volunteers to have completed CPR training in Ontario;", "“Whereas the primary responsibility for the care and safety of students rests with each school board and its employees;", "“Whereas the safety of children in elementary schools in Ontario should be paramount;", "“We, the undersigned, petition the Legislative Assembly of Ontario as follows:", "“To work in conjunction with all” school board employees “to ensure that adequate CPR training is available to school employees and volunteers.”", "I agree with the petition, affix my name and give it to page Jae Min." ],
   "anchor" : "para512",
   "subject" : {
@@ -1515,7 +1577,7 @@
     "anchor" : "para511"
   }
 }, {
-  "speaker" : "Mr. Jeff Yurek",
+  "speaker" : "Jeff Yurek",
   "text" : [ "“To the Legislative Assembly of Ontario:", "“Whereas on October 9, 2012, 12-year-old Ryan Gibbons unnecessarily died of an asthma attack at school;", "“Whereas one in five students in Ontario schools has asthma; and", "“Whereas asthma is a disease that can be controlled; and", "“Whereas it is the responsibility of Ontario schools to ensure asthma-safe environments;", "“We, the undersigned, petition the Legislative Assembly of Ontario to request the Minister of Education to take measures to protect pupils with asthma by ensuring all school boards put in place asthma-management plans based on province-wide standards.”", "I fully support this petition, affix my signature and hope everyone supports my bill next Thursday." ],
   "anchor" : "para520",
   "subject" : {
@@ -1531,7 +1593,7 @@
     "anchor" : "para527"
   }
 }, {
-  "speaker" : "Mr. Joe Dickson",
+  "speaker" : "Joe Dickson",
   "text" : [ "A petition to the Legislature of Ontario:", "“Whereas the community of Windsor-Essex county has one of the highest unemployment rates in Canada resulting in stressful lives and financial inadequacies for many of its residents and businesses; and", "“Whereas recently the Ford Motor Company was considering Windsor, Ontario, as a potential site for a new global engine that would create 1,000 new jobs (and as many as 7,000 spinoff jobs) for our community; and", "“Whereas partnership with government was critical to secure this investment from Ford; and", "“Whereas the inability of Ford and the Ontario” government “to come to an agreement for partnership contributed to the loss of this project;", "“We, the undersigned, petition the Legislative Assembly of Ontario as follows:", "“To insist that the Ontario government exhaust all available opportunities to reopen the discussions around the Ford investment in Windsor and to develop a national auto strategy”—that’s the key focus of this petition, a national auto strategy—“and review current policy meant to attract investment in the auto sector.”", "I adhere my name to this, and I shall pass it to Olivia." ],
   "anchor" : "para536",
   "subject" : {
@@ -1539,7 +1601,7 @@
     "anchor" : "para535"
   }
 }, {
-  "speaker" : "Ms. Lisa M. Thompson",
+  "speaker" : "Lisa M. Thompson",
   "text" : [ "“To the Legislative Assembly of Ontario:", "“Whereas the Ministry of Health and Long-Term Care’s lack of priority funding is causing the closure of the South Bruce Grey Health Centre restorative care Chesley site as of May 1st, 2015; and", "“Whereas in three years, the 10 beds dedicated to this program have seen over 300 patients utilize the program and at this time there is a waiting list for this successful program; and", "“Whereas currently over 83% of patients are discharged from the restorative care program to home after a two- to eight-week program which has prepared them to confidently return home, recognizing this program increases their quality of life through the regaining of strength, balance and independence; and", "“Whereas the closure of this program will deprive seniors and other eligible clients from the many health and mobility benefits that the restorative care program offers; and", "“Whereas the alternative to the restorative care program will see patients staying in active medical beds longer, while they wait for long-term care; and", "“Whereas the return of investment on the restorative care program far exceeds conventional approaches when considering the value of quality of life in the patients’ own home as compared to a long-term-care facility; and", "“Whereas it is our understanding that the CCAC has cut back its services enabling patients to remain confidently in their home;", "“We, the undersigned, petition the Legislative Assembly of Ontario as follows:", "“That the South Bruce Grey Health Centre restorative care Chesley site be recognized for its success; and for the Ministry of Health and Long-Term Care to showcase this program as a model to be followed across the province; and", "“That the closing of the South Bruce Grey Health Centre restorative care Chesley site on May 1st, 2015, not proceed and the provincial government support this health care model with base funding as an investment in the health and welfare of patients so they can confidently remain in their home.”", "I agree with this petition. I’ll affix my name and send it to the table with Carina." ],
   "anchor" : "para545",
   "subject" : {
@@ -1547,7 +1609,7 @@
     "anchor" : "para544"
   }
 }, {
-  "speaker" : "Mrs. Lisa Gretzky",
+  "speaker" : "Lisa Gretzky",
   "text" : [ "This petition is called “Maintain the John McGivney Children’s Centre Preschool Program.”", "“To the Legislative Assembly of Ontario:", "“Whereas the John McGivney Children’s Centre annually helps about 2,500 children with physical, neurological and developmental challenges;", "“Whereas the John McGivney Children’s Centre preschool program is an exceptional program administered by expert faculty and staff that offers youth and their families a transformative experience that they would not receive in a less specialized setting;", "“Whereas the John McGivney Children’s Centre preschool program faces a shortfall in provincial funding;", "“Whereas families raising children with special needs incur increased costs for care which the income test does not properly reflect;", "“Whereas compliance with the provincial requirements means that the John McGivney Children’s Centre preschool program is unable to be sustained;", "“Whereas the John McGivney Children’s Centre preschool program closure will mean a loss of a valued skill set of expertise from teachers and support staff in our community that will leave some of the area’s most vulnerable children and families without proper child care;", "“Therefore we, the undersigned, petition the Legislative Assembly of Ontario as follows:", "“To make up any funding shortfalls that result from transitioning to a fee subsidy model so that the John McGivney Children’s Centre preschool program can remain operational and consider changes to the income test to better reflect the increased costs families raising children with special needs incur.”", "I fully support this, sign my name and give it to page Samantha." ],
   "anchor" : "para558",
   "subject" : {
@@ -1555,7 +1617,7 @@
     "anchor" : "para557"
   }
 }, {
-  "speaker" : "Mrs. Cristina Martins",
+  "speaker" : "Cristina Martins",
   "text" : [ "I rise today to read this petition to the Ontario Legislative Assembly:", "“Whereas fluoride is a mineral that exists naturally in virtually all water supplies, even the ocean; and", "“Whereas scientific studies conducted during the past 70 years have consistently shown that the fluoridation of community water supplies is a safe and effective means of preventing dental decay, and is a public health measure endorsed by more than 90 national and international health organizations; and", "“Whereas dental decay is the second-most frequent condition suffered by children, and is one of the leading causes of absences from school; and", "“Whereas Health Canada has determined that the optimal concentration of fluoride in municipal drinking water for dental health is 0.7 mg/L, providing optimal dental health benefits, and well below the maximum acceptable concentrations; and", "“Whereas the decision to add fluoride to municipal drinking water is a patchwork of individual choices across Ontario, with municipal councils often vulnerable to the influence of misinformation, and studies of questionable or no scientific merit;", "“We, the undersigned, petition the Legislative Assembly of Ontario as follows:", "“That the ministries of the government of Ontario adopt the number one recommendation made by the Ontario Chief Medical Officer of Health in a 2012 report on oral health in Ontario, and amend all applicable legislation and regulations to make the fluoridation of municipal drinking water mandatory in all municipal water systems across the province of Ontario.”", "I agree with this petition. I will affix my name and send it to the table with page Madison." ],
   "anchor" : "para570",
   "subject" : {
@@ -1563,7 +1625,7 @@
     "anchor" : "para569"
   }
 }, {
-  "speaker" : "Ms. Teresa J. Armstrong",
+  "speaker" : "Teresa J. Armstrong",
   "text" : [ "“To the Legislative Assembly of Ontario:", "“Whereas Alzheimer’s disease is a degenerative brain disease that causes thinking and memory impairment. Alzheimer’s disease is progressive, worsens over time and will eventually lead to death;", "“Whereas there are an estimated 208,000 Ontarians diagnosed with Alzheimer’s and related dementia today, and that number is set to increase by 40% in the next 10 years;", "“Whereas Alzheimer’s disease creates emotional, social and economic burdens on the family and supports of those suffering with the disease—over 25% of those providing personal supports to survivors of Alzheimer’s disease and related dementia are seniors;", "“Whereas the total economic burden of dementia in Ontario is expected to increase by more than $770 million per year through to 2020; and", "“Whereas Ontario’s strategy for Alzheimer’s disease and related dementia has not been revised since the implementation of a five-year strategy in 1999;", "“We, the undersigned, call upon the Minister of Health and Long-Term Care to immediately review, revise and implement an updated, research-informed, comprehensive strategy to respond to and prepare for the rapidly growing needs of those living with Alzheimer’s disease and related dementia.”", "I sign the petition and give it to page Mira for delivery." ],
   "anchor" : "para581",
   "subject" : {
@@ -1571,7 +1633,7 @@
     "anchor" : "para580"
   }
 }, {
-  "speaker" : "Ms. Daiene Vernile",
+  "speaker" : "Daiene Vernile",
   "text" : [ "This is a petition titled:", "“Population-based legal services funding.", "“Whereas Mississauga Community Legal Services provides free legal services to legal aid clients within a community of nearly 800,000 population; and", "“Whereas legal services in communities like Toronto and Hamilton serve, per capita, fewer people living in poverty, are better staffed and better funded; and", "“Whereas Mississauga and Brampton have made progress in having Ontario provide funding for human services on a fair and equitable, population-based model;", "“We, the undersigned, petition the Legislative Assembly of Ontario as follows:", "“That the Ministry of the Attorney General revise the current distribution of allocated funds ... and adopt a population-based model, factoring in population growth rates to ensure Ontario funds are allocated in an efficient, fair and effective manner.”", "I support this petition, will put my name to it, and I will hand it to page Luca." ],
   "anchor" : "para590",
   "subject" : {
@@ -1587,7 +1649,7 @@
     "anchor" : "para598"
   }
 }, {
-  "speaker" : "Ms. Eleanor McMahon",
+  "speaker" : "Eleanor McMahon",
   "text" : [ "“To the Legislative Assembly of Ontario:", "“Whereas there are no mandatory requirements for teachers and school volunteers to have completed CPR training in Ontario;", "“Whereas the primary responsibility for the care and safety of students rests with each school board and its employees;", "“Whereas the safety of children in elementary schools in Ontario should be paramount;", "“We, the undersigned, petition the Legislative Assembly of Ontario as follows:", "“To work in conjunction with all Ontario school boards to ensure that adequate CPR training is available to school employees and volunteers.”", "I support this petition. I affix my name to it, and I give it to page Joshua." ],
   "anchor" : "para609",
   "subject" : {
@@ -1603,7 +1665,7 @@
     "anchor" : "para616"
   }
 }, {
-  "speaker" : "Mrs. Marie-France Lalonde",
+  "speaker" : "Marie-France Lalonde",
   "text" : [ "“To the Legislative Assembly of Ontario:", "“Whereas microbeads are tiny plastics less than one millimetre in diameter which pass through our water filtration systems and get into our rivers and the Great Lakes; and", "“Whereas these microbeads represent a growing presence in our Great Lakes and are contributing to the plastic pollution of our freshwater lakes and rivers; and", "“Whereas the scientific research and data collected to date has shown that microbeads that get into our water system collect toxins and organisms mistake these microbeads for food and these microbeads can move up our food chain;", "“We, the undersigned, petition the Legislative Assembly of Ontario as follows:", "“Mandate the Ontario government to ban the creation and addition of microbeads to cosmetic products and all other related health and beauty products; and", "“The Ministry of the Environment conduct an annual study of the Great Lakes analyzing the waters for the presence of microbeads.”", "It gives me great pleasure to affix my signature and give it to page Jae Min." ],
   "anchor" : "para624",
   "subject" : {
@@ -1611,7 +1673,7 @@
     "anchor" : "para623"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The time for petitions is over.", "Pursuant to standing order 58(b), at the end of routine proceedings, the Speaker will recess the House until 4 p.m. Therefore, this House is recessed until 4 p.m. this afternoon." ],
   "anchor" : "para632",
   "subject" : {
@@ -1619,7 +1681,7 @@
     "anchor" : "para623"
   }
 }, {
-  "speaker" : "Hon. Charles Sousa",
+  "speaker" : "Charles Sousa",
   "text" : [ "I move, seconded by Ms. Wynne, that this House approves in general the budgetary policy of the government." ],
   "anchor" : "para637",
   "subject" : {
@@ -1627,7 +1689,7 @@
     "anchor" : "para636"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Mr. Sousa has moved, seconded by Ms. Wynne, that this House approves in general the budgetary policy of the government.", "Before we carry on, I would like to ask for the indulgence of the House, while the pages are delivering the documents, to provide them time to do so, and also remind you to please make sure the aisles are clear of any obstacles, including your hands, your feet and any other pieces of material you’ve brought with you.", "I now have to give them permission to deliver said documents. I would ask the pages to deliver the documents, please." ],
   "anchor" : "para638",
   "subject" : {
@@ -1643,7 +1705,7 @@
     "anchor" : "para636"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "We’ll see.", "I am now instructed to ask if all members have received their copies.", "Minister of Finance." ],
   "anchor" : "para642",
   "subject" : {
@@ -1651,7 +1713,7 @@
     "anchor" : "para636"
   }
 }, {
-  "speaker" : "Hon. Charles Sousa",
+  "speaker" : "Charles Sousa",
   "text" : [ "Mr. Speaker, before I begin, I’d just like to take a moment to acknowledge my family. My wife, Zenny, is here; my brother, Julio; my son, Justin; and of course my dad, Antonio, who is always ever so popular. Thank you all for being here today.", "Mr. Speaker, I rise to present the 2015 Ontario budget.", "I want to thank my colleagues in this House. I also want to thank the many dedicated and talented public servants who worked on this budget: Deputy Minister of Finance Scott Thompson, Treasury Board Deputy Minister Greg Orencsak, and Assistant Deputy Minister of Finance Chris Giannekos—and, of course, the tremendous staff in my office.", "More importantly, I want to thank the many Ontarians who have actively participated in pre-budget meetings and in telephone town halls and who provided input through our Budget Talks website as well.", "For generations, Mr. Speaker, governments have used budgets as a means to address our most pressing issues and lay out a course for our future.", "Over our history, budgets have protected our people from the effects of economic recessions, to build up our infrastructure, to create jobs, and to secure a better future.", "So, Mr. Speaker, this budget, like all budgets before it, is more than a report on government finances. It’s about people. It’s about competitiveness and compassion. It’s about protecting, preserving and enhancing the quality of life of people all across this province.", "This budget is not about ideology. It’s not about partisanship.", "It is a statement about where we want to go next, about what we will do next—together—as Ontarians, to build a stronger province.", "We all want a better quality of life, for ourselves and for those we love.", "That has been the story of Ontario: each generation striving to build a better society.", "Ontario is one of the world’s great success stories.", "So today, Mr. Speaker, I am honoured to present our government’s plan to address the needs of Ontarians now and for tomorrow, working together for a strong and prosperous future.", "Mr. Speaker, this budget is all about building Ontario up.", "Monsieur le Président, le plan de notre gouvernement pour la création d’emplois et la croissance comprend quatre composantes.", "Nous allons bâtir une infrastructure moderne, nous allons soutenir la formation professionnelle, nous allons contribuer à créer un climat d’affaires innovateur et dynamique, et nous assurerons la sécurité du revenu à la retraite.", "Mr. Speaker, our government’s plan to create jobs and growth has four major components.", "We will build modern infrastructure. We will support skills training. We will help create a more innovative and dynamic business climate. And we will provide income security in retirement.", "And, Mr. Speaker, this is a plan that will not only create a more competitive economy, but it will also help us build a fair society, with strong health care, and the tools to break the cycle of poverty and support people with disabilities.", "And we will continue to move forward with our comprehensive plan to balance the budget by 2017-18.", "Mr. Speaker, the ingenuity and creativity of individual Ontarians know no bounds.", "I think of people like Banting and Best, who invented insulin and who continue to save lives today.", "Or Dr. Emily Howard Stowe, the first woman to practise medicine in Canada—and a pioneer of women’s rights, creating a pathway of equality for all.", "Or Samuel McLaughlin, who helped create our auto industry, an industry in which Ontario continues to be a global leader.", "Each of these people, and so many others, have made tremendous contributions to our culture, to our quality of life and to our economy.", "But there have been times in our history, Mr. Speaker, when the challenges we faced have been beyond the power of one person to solve.", "And on those occasions, we have always come together to work together.", "To tackle our challenges together, so that we can continue to have growth and jobs.", "Our history is steeped in examples of this.", "In the 19th century, our country was founded, in part, through public investment in a national railway, linking Canada from east to west and helping to create a strong economy and a united Canada.", "In the 20th century, Ontarians helped build the St. Lawrence Seaway—which helped us get our products to global markets, creating an economic boom.", "In each of these cases, Canadians, working together, did what individuals working alone could not.", "We invested in ourselves—building what was necessary to support a strong and growing economy—and rising to meet the challenges of the day.", "Together, we built infrastructure that created jobs, generated growth and improved our quality of life.", "Today, as we compete in the 21st century, Ontario is facing other challenges.", "Mr. Speaker, right now, the biggest barrier to jobs and growth in our province is—ironically—a by-product of our own success.", "Ontario has a busy and competitive economy.", "Our roads and our highways are filled with manufactured parts that need to get to just-in-time industries, goods that need to get to market quickly, and people who need to get to work quickly and safely—if we want to stay competitive.", "We must invest.", "Right now, gridlock is slowing our economy, gridlock is costing us jobs, and gridlock is choking our growth.", "Mr. Speaker, this is not just a “Toronto traffic” problem.", "Everyone—from Bowmanville to Brampton to Burlington—knows how hard it is to get across the greater Toronto and Hamilton area in rush hour.", "The average commute time for a GTA resident is over an hour—and that’s just one way. Too many people are stuck on expressways that look more and more like parking lots.", "Commuting times in Ontario have risen 12% over the past two decades, and that’s not just in Toronto—all across Ontario those commute times are rising.", "The C.D. Howe Institute tells us that gridlock costs our economy up to $11 billion per year in the GTHA alone.", "Because, for decades, Ontario has not been building fast enough to keep up with the province’s needs. Government after government has delayed critical investments.", "Ontario cannot afford any more delays.", "Ontario must build.", "Mr. Speaker, the effect of this epic congestion in the GTHA echoes in the economies of communities like Windsor and North Bay and Kingston.", "Because we are all connected.", "And communities outside the GTHA have their own infrastructure needs as well.", "So, just like we came together to build other projects in the past, we need to address the great challenge of our time.", "Mr. Speaker, the very best thing we can do to make sure our economy continues to grow and produce jobs is to build the roads, is to build the bridges, is to build the transit that a 21st-century economy needs.", "That’s why we created the Trillium Trust, where we set aside funds earned from old assets that remain dedicated to be reinvested as necessary for new assets.", "Public investments are important. But let’s be clear. This is not about building more government. It’s about building more opportunity.", "We know that for every dollar we invest in infrastructure, we get $1.60 back in economic activity.", "Mr. Speaker, to support our growth—and to meet the challenges of our time—we have taken important steps to unlock the value of some of our provincial assets.", "As you will recall, back in 2009, we took action at the height of the global recession to save the auto sector and to protect our economy.", "That was the right decision at the time, and divesting those shares when the crisis had passed was also the right decision.", "That earned Ontario $1.35 billion—to now be used to further build up our province.", "So, Mr. Speaker, we asked the Premier’s Advisory Council on Government Assets—led by Ed Clark—to explore ways to maximize the value of provincial assets. I’m not sure if Mr. Edmund Clark is here today, but thank you so much, sir, for your contribution.", "Unlocking value—as Canadians have done from time to time throughout our history—allows us to reinvest in critical public infrastructure and other essential infrastructure projects.", "To enable these investments today and to create the conditions to realize stronger growth for tomorrow, the council was guided by three principles:", "—protecting the public interest;", "—maximizing value for Ontarians; and", "—doing so in a transparent way.", "We are adopting the council’s key recommendations.", "First, we’re modernizing Ontario’s distribution and sale of beer, improving choice while continuing to be socially responsible.", "And for the first time in its history, Ontario will permit the sale of beer in grocery stores.", "This, Mr. Speaker, is the largest shakeup since Prohibition in 1927—which I’m told was when Jim Bradley was just a rookie member in this House.", "Second, Mr. Speaker, we’re broadening the ownership of Hydro One through an initial public offering. This will strengthen Hydro One’s long-term performance. It will unlock billions in value for the benefit of Ontarians, and it will do so while protecting the public interest.", "Following the IPO, the people of Ontario will remain the largest shareholder. We’re proposing that no one or group of shareholders will be permitted to own more than 10% of the company.", "Most importantly, Mr. Speaker, the new Hydro One will not set rates for consumers. That will remain the job of the independent Ontario Energy Board.", "By broadening ownership in Hydro One we’ll make available billions of dollars to invest in the infrastructure that we need to fuel our economy.", "We will invest the amount dedicated to the Moving Ontario Forward plan using funds realized from asset optimization, resulting in a new dedicated amount of $31.5 billion over 10 years. That will be used for public transit and critical infrastructure right across the province.", "We will further improve GO train service.", "Our Regional Express Rail plan will mean more trains, more trips and faster service.", "It will mean GO trains running every 15 minutes in core areas.", "It will mean two-way, all-day service on weekdays, in the evening and on weekends in core areas where the need is greatest.", "It will mean extending the GO network—making it faster and easier to get around.", "As well, the Union Pearson Express will begin service this spring, moving people from downtown Toronto to Pearson airport faster than ever before.", "The first phase of the Highway 407 East extension from Pickering to Oshawa will open later this year, again helping more people get home more quickly and more easily.", "It will mean new infrastructure all across Ontario.", "We will invest $16 billion in the GTHA and $15 billion more outside of the GTHA.", "For example, we will be investing $100 million a year to help communities like Burk’s Falls and Penetanguishene build roads and bridges and create more jobs.", "We are making highway improvements between communities, like Highway 11/17 between Thunder Bay and Nipigon, and Highway 7 between Kitchener and Guelph.", "We will be improving connections within communities and between communities.", "Allowing goods and people to move more freely and efficiently.", "All of this supports a strong economy—with more jobs.", "Mr. Speaker, our investments in roads and bridges and public transit are part of our long-term plan to build more than $130 billion in infrastructure over 10 years. This is the largest infrastructure investment in Canada since driving the last spike to complete the Canadian railway in 1885.", "This investment is the very best action we can take now to secure a greater future for our children and grandchildren.", "Mr. Speaker, some parts of the world rely on lower labour costs as their competitive advantage.", "Our competitive advantage is our talent, our education and our skills.", "We know that a well-educated workforce is a competitive workforce.", "And a competitive workforce leads to a stronger economy.", "It starts at the very beginning.", "Which is why today there are over 130,000 more Ontario children in licensed child care than in 2003.", "It is why we’ve raised the wages of child care workers to attract, retain and reward them. It is why we’ve invested in full-day kindergarten. It is why we’ve lowered class sizes.", "And it is why we’re investing $11 billion over 10 years to build new schools and refurbish older ones.", "And our efforts are working.", "Today, more kids are meeting or exceeding provincial standards.", "More kids are graduating from high school.", "And more adults have a post-secondary credential.", "We’re making it easier to pay for their college and university programs.", "Last year, we provided more than $1.3 billion in grants and loans. We helped more than 380,000 students achieve their dreams of a higher education.", "Mr. Speaker, making sure more people have access to post-secondary education is essential to our growth agenda.", "That is why we are also supporting aboriginal institutes. We want to ensure that First Nations young people have access to high-quality education and training as well.", "And we’re investing in skilled trades to support more than 28,000 Ontarians who registered for apprenticeships last year.", "For example, we’re supporting Seneca College as it partners with Siemens Canada to train the next generation of technology workers. And I congratulate David Agnew, the president of Seneca College, for making this happen as well. Thank you.", "I am proud to say that in this budget we’re renewing Ontario’s Youth Jobs Strategy, with an additional $250 million over two years.", "That will bring our total investment in youth employment programs to more than $565 million.", "It will mean continued funding for programs to help young people get that first job, to find a mentor or start their own business. For example, the Youth Business Acceleration Program provides start-up funding and advice to innovative companies run by young people. This program has already created 980 jobs in Ontario.", "Sunit Mohindroo and Ahmed Badruddin are young entrepreneurs who have benefited from this program. In 2011, they left Silicon Valley and returned to Ontario, where they grew up and went to school, to start WatrHub, an innovative company that has been recognized by the Globe and Mail, the Washington Post and CNN as one of the world’s top innovations to address water challenges. Sunit is in the gallery with us today. Thank you for doing all the tremendous work you do.", "Mr. Speaker, we also recognize the importance of apprenticeships. That is why we’re supporting apprenticeships with an additional $55 million to enhance in-class training and support programs.", "Investing in people’s skills ensures that we nurture the best talent for continued economic growth and success.", "Mr. Speaker, the third part of our economic plan is to help create an environment where businesses can be more competitive.", "Part of that includes better infrastructure and a skilled and talented workforce. Those are key priorities for business leaders when deciding where to invest and expand their operations, as are costs and taxes.", "So, Mr. Speaker, we will continue to maintain low corporate and small business tax rates.", "Our combined corporate income tax rate is lower than the combined tax rate of any US state and it is lower than any of the G7 or G20 nations.", "And we are getting results.", "Ontario is now the number one destination of choice for foreign direct investment in all of North America, beating out California, Texas, New York and every province in Canada. That means more jobs, economic growth and a better standard of living for all of us.", "But, Mr. Speaker, there’s more to do.", "That is why we launched our 10-year, $2.5-billion Jobs and Prosperity Fund to partner with Ontario companies to increase productivity, to lead innovation and to boost our exports.", "Under that program, Guelph auto parts maker Linamar Corp. received support for an investment of half a billion dollars that will create 1,200 new jobs over the next 10 years.", "We’re not stopping there.", "That’s why, in this budget, we will provide an additional $200 million more to the Jobs and Prosperity Fund to attract even more business investment. And for the very first time, Mr. Speaker, we’ll also make the forestry sector eligible for this support. We know that we must always look ahead. That’s why we will establish a new innovation initiative which will bring together senior business leaders to find ways to scale up Ontario start-ups, like Ryerson University’s Digital Media Zone, which has incubated more than 130 start-ups. They’ve raised over $40 million in funding and created more than 1,200 jobs.", "There are regional pressures as well, Mr. Speaker, right across the province. For example, we know that industries in the north have higher costs than in the south, with longer and colder winters to boot.", "That is why we will also make the Northern Industrial Electricity Rate Program ongoing.", "This ongoing annual investment of $120 million will help Ontario’s large northern industries reduce costs and makes them more competitive.", "It is critical to the success of our efforts to establish new industry in northern Ontario; for example, a smelter to support development in the Ring of Fire.", "We are also continuing to support growth and innovation in Ontario’s agri-food industry with initiatives that support farmers and producers.", "Working together with the sector, we have already seen great progress.", "Between 2013 and 2014, the agri-food sector created over 17,000 net new jobs. Total employment has risen to over 780,000, and exports increased by 5.5% to almost $12.5 billion.", "Mr. Speaker, we’re helping businesses by also cutting red tape. Since 2008, we have eliminated 17% of all regulatory requirements. These were regulations that were getting in the way of the ability of people to grow their businesses.", "We’re also helping to create a Cooperative Capital Markets Regulatory System.", "An initial handshake between Ontario, British Columbia and Canada has now attracted Saskatchewan, New Brunswick, Yukon and Prince Edward Island to sign on.", "This will strengthen Canada’s capital markets by providing better protection for investors, enhancing Canada’s financial services sector and managing risk in our financial markets.", "The next steps in this new national endeavour will be announced later this year.", "Ontario has also led the way with the establishment of the first renminbi, or RMB, trading hub; this is the first Chinese currency trading hub anywhere in North and South America.", "The RMB is currently the second-most-used currency in global trade finance.", "Authorized by China’s central bank, this hub is exclusive to Canada and will allow Canadian banks to offer clients financial services and currency exchange more competitively than anywhere else.", "In all, the RMB trading hub will further attract international business opportunities, trade and development. It’s all happening right here in Ontario.", "Mr. Speaker, climate change is one of the greatest challenges facing humanity. There are those who don’t believe this. There are those who deny it, and it’s time for the climate change deniers to wake up and smell the carbon.", "Ontario is taking action. Ontario is putting a limit on the main sources of greenhouse gas pollution. We’re doing so through a cap-and-trade system to protect the air we breathe, the water we drink, and the health of our children and grandchildren.", "Ontario intends to join the cap-and-trade system under the Western Climate Initiative. Under the cap-and-trade system, businesses would have their own greenhouse gas quotas. They would be able to sell any unused portion they don’t need when they then innovate and find ways to reduce emissions.", "Good environmental policy is good economic policy. A cap-and-trade system creates an incentive to reduce our use of fossil fuels, and in turn creates an incentive to boost innovation, create jobs and ensure our prosperity for many, many years to come.", "Our fourth pillar, Mr. Speaker, is ensuring that everyone has a secure retirement.", "That’s why we’re introducing the Ontario Retirement Pension Plan. Retirement security is a necessary part of keeping our economy strong.", "The reward for a lifetime of contributing to that economy should not result in poverty.", "Yet more than half of all Ontario workers do not have a workplace pension.", "Too many are at risk of not saving enough.", "Low retirement savings puts people and our entire economy at risk.", "The Ontario Retirement Pension Plan, like health care and great schools, is another strategic advantage. It helps to attract and retain the talented workforce that businesses need.", "So we are moving forward with the next steps needed to set up the ORPP administration corporation and the formation of an executive governing body. We are also introducing voluntary pooled registered pension plans as supplements.", "I wish to thank my colleague the Associate Minister of Finance, Mitzie Hunter, for the wonderful work she’s done to bring enhanced retirement security. Thank you, Mitzie.", "The ORPP and the PRPP will help sustain economic prosperity for years to come.", "And we are doubling the Seniors Community Grant Program to $2 million per year, giving seniors more opportunities to volunteer, learn and participate in their communities.", "Mr. Speaker, we’re strengthening these four economic pillars—not as an end in and of themselves.", "We are doing all this because a strong economy helps us create a fair society.", "A key to that fair society is our health care system.", "Ontarians are as compassionate as we are competitive.", "And our universal health system is proof of that.", "Not only does it provide us with a way to care for all our citizens, but it provides us with a competitive advantage in the global economy.", "That’s why we’re making it stronger.", "Since 2003, we’ve hired 5,600 more doctors and 24,000 more nurses.", "We’ve reduced wait times.", "And 94% of Ontarians now have access to primary care.", "And we’re raising personal support worker salaries by $4 per hour.", "Now we’re going to do even more.", "We know that 30% of Ontarians will experience mental health or substance abuse issues in their lifetime.", "And we know that 70% of these issues start in childhood.", "So we’re starting to tackle this issue by helping 50,000 kids and young people get mental health and addiction services.", "These are changes that came about with all-party support, flowing from the recommendations of this legislative committee that worked well together in a positive and non-partisan way. I thank my colleagues across the floor for making this happen as well.", "In this budget, we’re acting. We’re acting by investing $138 million over three years for the next phase of our Mental Health and Addictions Strategy.", "As well, we will expand and improve on integrated home and community care while continuing to manage health costs.", "Mr. Speaker, we remain committed to sustaining and improving Ontario’s publicly funded health system. It remains an example to the world of professional, compassionate care.", "Mr. Speaker, creating a fair society means making sure everyone has a chance to succeed.", "Lifting people out of poverty makes sense, just as providing for our shared health care makes sense.", "Because when we each succeed, we all succeed.", "That’s why, since 2003, we have committed more than $4 billion to build new affordable housing units and repair existing ones.", "That’s why in 2014 we renewed our commitment to a five-year Poverty Reduction Strategy—which focuses on breaking the cycle by tackling the root causes of poverty.", "By helping children and youth.", "By helping people find meaningful jobs.", "By committing to our bold goal of ending homelessness.", "And by reforming social assistance to help more people transition to the workforce.", "In 2013 and 2014, we raised social assistance rates for Ontario Works recipients, and we also did so for the people receiving Ontario Disability Support Program benefits. Today, we’re announcing a third consecutive increase in social assistance.", "This year, we also took steps to stop sexual violence and harassment and improve support for survivors.", "To end the root causes of sexual violence, we introduced a new plan called It’s Never Okay—causes such as unhealthy attitudes and behaviours, and gender inequality.", "And, Mr. Speaker, through updated education and stronger workplace legislation, we will continue to change our province for the better—forever—by addressing an issue that has resisted change for far too long.", "Because every Ontarian has a right to feel safe and respected.", "Mr. Speaker, we can only have a society that is fair for all when we have sound management of Ontario’s finances.", "That’s why our government works diligently and continues to surpass its fiscal targets year after year.", "Mr. Speaker, we will continue to meet our targets with determination—and discipline—working together with businesses and consumers, until we have achieved our goal of a balanced budget.", "We are now projecting a deficit of $8.5 billion in 2015–16. When achieved, it will be the lowest, in fact, since the onset of the global recession.", "In 2016-17, we project a deficit of $4.8 billion and a return to balance in 2017–18.", "Ontario’s diversified and resilient economy will help us reach that goal.", "In 2015, the Ontario economy will lead the country with forecasted growth of 2.7%.", "Mr. Speaker, Ontario has recovered all the jobs lost in the global recession and then some. Our economy has created a half a million net new jobs.", "And three-quarters of these new jobs are in sectors that pay above-average wages.", "More than 83% are in the private sector and 94% are full time.", "Proof, Mr. Speaker, that our province is heading in the right direction.", "Ontario’s economy is expected to grow at a solid pace, boosted in part by a more competitive Canadian dollar, acceleration in the U.S. economy and lower oil prices.", "While these are good signs, we are not relying on these factors alone.", "Mr. Speaker, we have also held the line on spending.", "2014–15 marks the sixth year in a row that program spending is expected to be lower than forecast.", "In addition, over the past four years, the province has held average annual growth in program spending to 1.5%.", "That is below the annual inflation rate. And we’ve done so without cutting critical services.", "We are making every dollar count.", "We did not control spending by slashing and burning, as some would do. We did it by closely examining programs.", "Through the great work that is being done by my colleague Minister Matthews, the President of the Treasury Board, we have introduced a new multi-year planning and allocation process.", "We are going line by line, looking at every single program and service that government delivers.", "Every program is being examined with fresh eyes. As we go forward, we ask these questions:", "Is it relevant? Is it effective? Is it efficient? And is it sustainable?", "We’re looking across government to achieve better value for your money.", "And our approach is working.", "We have the lowest rate of per capita program spending of any provincial government in Canada.", "And we are achieving that while keeping health care, education and social services strong.", "Still, we must hold the line.", "For example, we have redesigned the youth justice system—there are now fewer youths in secure custody than in 2003. We’re providing community-based programs for those lower-risk young people who have been in conflict with the law.", "We’ve changed health care funding from a system that is based on the provider to a system that is based on the patient.", "And that means we put people first, not the process.", "And this coming year, we will do even more.", "We will rework the ways in which we purchase, dispense and issue bills under the Ontario Drug Benefit Program. This will save Ontarians over $200 million per year.", "We’ll make our business tax support more focused and effective. That will save another $165 million per year by 2017–18.", "Mr. Speaker, we are holding the line on public sector compensation, as well. We’re in this together to ensure we find savings to achieve net zeros because there is no new funding for compensation increases.", "We have already had success with AMAPCEO, which represents our professional and managerial workers.", "We are negotiating with all our partners to ensure that we continue to deliver strong public services while responsibly managing public sector compensation.", "And Mr. Speaker, we will continue to make sure that all businesses meet their obligations, as well. This effort—by going after the tax avoiders—has so far generated $600 million for the province this year.", "In this budget, we are introducing new and better ways to continue to fight the underground economy and tax avoidance.", "As an example, we will outlaw electronic sales suppression technology, commonly known as zappers, which allows some businesses to hide sales and underreport business income.", "Nous regardons ce que le Québec a fait pour récupérer des millions de dollars du revenu de l’économie souterraine, et nous en tirons des leçons. Cela montre comment les deux provinces du Canada central travaillent ensemble d’apprendre l’une de l’autre au profit de toute la population.", "We look to Quebec’s ability to recover millions of dollars of revenue from the underground economy and we’re learning from it. It is another example of the two provinces that make up central Canada working together and learning from each other for the benefit of all people.", "Mr. Speaker, we will also celebrate the 400th anniversary of the francophone presence in Ontario this year.", "Cet anniversaire marque le passage de Samuel de Champlain dans la province et met en relief le rôle important qu’ont joué les Franco-Ontariens dans l’histoire et le développement de notre province.", "Our government has committed $5.9 million towards communities all across the province to celebrate Franco-Ontarian culture. This will attract tourists, contribute to the economy and recognize our notable legacy.", "Mr. Speaker, our Premier, Kathleen Wynne, again and again has shown strong leadership on the national stage on issues such as energy, interprovincial trade barriers, retirement security and climate change. Our Premier has stood up for Ontario and driven the national agenda.", "Ontarians pay $11 billion more to the federal government than we receive in federal transfers and services.", "We’ve lived with this inequality in the equalization program for many years now.", "Ontario is a proud partner in the federation and we believe in doing our part to keep our nation strong.", "That said, Mr. Speaker, Ontario needs a strong partner in the federal government to strengthen our country and our economy.", "The great economic challenge of our time is building infrastructure.", "Provinces and territories invest 46 cents of every dollar spent on infrastructure, municipalities invest about 40 cents and the federal government—they invest just 14 cents.", "Mr. Speaker, if the federal government wants a stronger Canada, it must invest its fair share in the critically important projects that strengthen Ontario’s economy.", "That also includes helping to develop the Ring of Fire to spur economic growth and create jobs.", "Our government has committed to invest $1 billion to build infrastructure, including transportation, in the region.", "We need a federal partner in this initiative, Mr. Speaker.", "Mr. Speaker, this summer we will host the 2015 Pan and Parapan American Games.", "The eyes of the world will be on Ontario.", "This has been years in the making.", "It will be the biggest multi-sport event ever held in Canada.", "And we will welcome more than 10,000 athletes, coaches and officials from 41 countries to compete in 51 sports at more than 40 venues across Ontario.", "It is one more way that we are building Ontario up.", "The Games will attract hundreds of thousands of tourists from all around the world. It has helped create more than 26,000 new jobs, and it grows our GDP by $3.7 billion.", "It’s going to be an exciting summer event.", "And one that will provide housing, transportation, accessibility, and educational, sporting and recreational legacies for decades to come. Absolutely.", "Please join me in welcoming Curt Harnett. He’s an Olympic, Commonwealth and Pan Am gold medalist with a world record for cycling, and Canada’s chef de mission for this year’s Pan/Parapan American Games.", "Mr. Speaker, he was a big part of making sure that we had an all-seasons velodrome in Milton that’s going to make us all so very proud for many years to come.", "I would also like to recognize two other athletes competing for Canada next month. First, Vincent Dallaire, from Wheelchair Basketball: He has been a member of Team Canada since 2014 and has been named to the team of Toronto 2015. Mr. Speaker, Vincent is from Quebec City, now living and training right here in Scarborough.", "Also, please welcome Katrina Cameron, from the rhythmic gymnastics. She is a 2012 Olympian and a member of Canada’s Pan Am team for Toronto 2015. Mr. Speaker, Katrina is from my hometown of Mississauga, Ontario.", "Thank you to these wonderful athletes who join us in the gallery today. You and the entire Canadian team make us all so very proud. Thank you.", "Mr. Speaker, a budget is more than money.", "Yes, it gives a summation of our finances, but it also expresses our aspirations for our future.", "Our government is determined to build Ontario up.", "To continue to create a competitive, modern economy that creates jobs and growth.", "The best way to do this is to work together—as Ontarians—to build infrastructure that benefits all of us.", "To do that, we’ll have to do some things differently.", "So that—together—we can build what we need for a strong future.", "It’s what Ontarians have always done.", "We have always made these kinds of choices, together.", "We have always had the courage to tackle tough challenges.", "The confidence to seize new opportunities.", "The clarity of vision to see what needs to be done.", "Mr. Speaker, under the leadership of this Premier, Kathleen Wynne, our government is taking the bold steps necessary to secure our future.", "Our Premier is a leader with the courage, the confidence, the energy and the clarity of vision which comes once in a generation.", "Our Premier leads a government that believes in partnerships. By working together, we can accomplish anything.", "That is why we are undertaking the biggest infrastructure build in Ontario’s history.", "With courage, with confidence, with clarity.", "It is time, Mr. Speaker. It is time to build Ontario up.", "Thank you." ],
   "anchor" : "para645",
   "subject" : {
@@ -1659,7 +1721,7 @@
     "anchor" : "para636"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The member from Leeds–Grenville." ],
   "anchor" : "para928",
   "subject" : {
@@ -1667,7 +1729,7 @@
     "anchor" : "para636"
   }
 }, {
-  "speaker" : "Mr. Steve Clark",
+  "speaker" : "Steve Clark",
   "text" : [ "Thank you, Speaker. I move the adjournment of the debate." ],
   "anchor" : "para929",
   "subject" : {
@@ -1675,7 +1737,7 @@
     "anchor" : "para636"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The member from Leeds–Grenville has moved adjournment of the debate.", "Do we agree? Carried." ],
   "anchor" : "para930",
   "subject" : {
@@ -1683,7 +1745,7 @@
     "anchor" : "para636"
   }
 }, {
-  "speaker" : "Hon. Charles Sousa",
+  "speaker" : "Charles Sousa",
   "text" : [ "Mr. Speaker, I would ask the House to revert back to introduction of bills." ],
   "anchor" : "para933",
   "subject" : {
@@ -1691,7 +1753,7 @@
     "anchor" : "para636"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Reverting back to introduction of bills: Do we agree? Agreed.", "Mr. Sousa moved first reading of the following bill:", "Bill 91, An Act to implement Budget measures and to enact and amend various Acts / Projet de loi 91, Loi visant à mettre en oeuvre les mesures budgétaires et à édicter et à modifier diverses lois." ],
   "anchor" : "para934",
   "subject" : {
@@ -1699,7 +1761,7 @@
     "anchor" : "para636"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Mr. Sousa moves that leave be given to introduce a bill entitled An Act to implement Budget measures and to enact and amend various Acts, and that it now be read for the first time. Do we agree? Carried." ],
   "anchor" : "para939",
   "subject" : {
@@ -1707,7 +1769,7 @@
     "anchor" : "para936"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The minister for a short statement?" ],
   "anchor" : "para941",
   "subject" : {
@@ -1715,7 +1777,7 @@
     "anchor" : "para936"
   }
 }, {
-  "speaker" : "Hon. Charles Sousa",
+  "speaker" : "Charles Sousa",
   "text" : [ "No, I have no statement at this time, Mr. Speaker." ],
   "anchor" : "para942",
   "subject" : {
@@ -1723,7 +1785,7 @@
     "anchor" : "para936"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "Thank you.", "Government House leader." ],
   "anchor" : "para943",
   "subject" : {
@@ -1731,7 +1793,7 @@
     "anchor" : "para936"
   }
 }, {
-  "speaker" : "Hon. Yasir Naqvi",
+  "speaker" : "Yasir Naqvi",
   "text" : [ "Speaker, I move adjournment of the House." ],
   "anchor" : "para945",
   "subject" : {
@@ -1739,7 +1801,7 @@
     "anchor" : "para936"
   }
 }, {
-  "speaker" : "The Speaker (Hon. Dave Levac)",
+  "speaker" : "The Speaker",
   "text" : [ "The government House leader has moved adjournment of the House. Do we agree? Carried.", "This House stands adjourned until Monday, April 27, at 10:30 a.m." ],
   "anchor" : "para946",
   "subject" : {
