@@ -23,7 +23,7 @@
   "text" : [ "A quorum call, please." ],
   "anchor" : "para41"
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is not present, Speaker." ],
   "anchor" : "para42"
 }, {
@@ -31,7 +31,7 @@
   "text" : [ "Call in the members." ],
   "anchor" : "para43"
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is present, Speaker." ],
   "anchor" : "para45"
 }, {
@@ -1107,7 +1107,7 @@
   "text" : [ "I beg to inform the House that in the name of Her Majesty the Queen, Her Honour the Lieutenant Governor has been pleased to assent to a certain bill in her office." ],
   "anchor" : "para1123"
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "The following is the title of the bill to which Her Honour did assent:", "An Act to authorize the expenditure of certain amounts for the fiscal year ending March 31, 2015 / Loi autorisant l’utilisation de certaines sommes pour l’exercice se terminant le 31 mars 2015." ],
   "anchor" : "P1141_319870"
 }, {

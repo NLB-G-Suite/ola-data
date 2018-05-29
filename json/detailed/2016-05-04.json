@@ -34,7 +34,7 @@
   "anchor" : "para32",
   "subject" : null
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is not present, Speaker." ],
   "anchor" : "para33",
   "subject" : null
@@ -2036,7 +2036,7 @@
     "anchor" : "para725"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "Your committee begs to report the following bills without amendment:", "Bill Pr42, An Act to revive 790186 Ontario Inc.", "Bill Pr43, An Act respecting the Ismaili Centre, Toronto, the Aga Khan Museum and the Aga Khan Park.", "Your committee further recommends that the fees and the actual cost of printing at all stages be remitted on Bill Pr43, An Act respecting the Ismaili Centre, Toronto, the Aga Khan Museum and the Aga Khan Park." ],
   "anchor" : "para727",
   "subject" : {

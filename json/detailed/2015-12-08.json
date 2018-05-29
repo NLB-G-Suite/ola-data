@@ -24,7 +24,7 @@
   "anchor" : "para30",
   "subject" : null
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is not present, Speaker." ],
   "anchor" : "para31",
   "subject" : null
@@ -34,7 +34,7 @@
   "anchor" : "para32",
   "subject" : null
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is now present." ],
   "anchor" : "para34",
   "subject" : null
@@ -1623,7 +1623,7 @@
     "anchor" : "para540"
   }
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "Care, not chairs." ],
   "anchor" : "para557",
   "subject" : {

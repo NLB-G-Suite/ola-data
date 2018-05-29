@@ -500,7 +500,7 @@
     "anchor" : "para225"
   }
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "She’s over there." ],
   "anchor" : "para239",
   "subject" : {
@@ -2332,7 +2332,7 @@
     "anchor" : "para996"
   }
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "Etobicoke Centre." ],
   "anchor" : "para1116",
   "subject" : {
@@ -2404,7 +2404,7 @@
     "anchor" : "para996"
   }
 }, {
-  "speaker" : "The Acting Chair",
+  "speaker" : "The Chair",
   "text" : [ "I thank the honourable member from York South–Weston and now return for final response to the member from Etobicoke Centre." ],
   "anchor" : "para1155",
   "subject" : {
@@ -2716,7 +2716,7 @@
     "anchor" : "para1335"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "The ayes are 30; the nays are 7." ],
   "anchor" : "para1381",
   "subject" : {

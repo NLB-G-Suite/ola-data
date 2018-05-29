@@ -1572,7 +1572,7 @@
     "anchor" : "para729"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is not present, Speaker." ],
   "anchor" : "para752",
   "subject" : {
@@ -1580,7 +1580,7 @@
     "anchor" : "para729"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is now present, Speaker." ],
   "anchor" : "para754",
   "subject" : {
@@ -1956,7 +1956,7 @@
     "anchor" : "para729"
   }
 }, {
-  "speaker" : "The Acting Chair",
+  "speaker" : "The Chair",
   "text" : [ "Thank you very much.", "Questions and comments?" ],
   "anchor" : "para1139",
   "subject" : {
@@ -1972,7 +1972,7 @@
     "anchor" : "para729"
   }
 }, {
-  "speaker" : "The Acting Chair",
+  "speaker" : "The Chair",
   "text" : [ "We have time for one last question or comment. The member for Hamilton Mountain." ],
   "anchor" : "para1147",
   "subject" : {
@@ -2292,7 +2292,7 @@
     "anchor" : "para729"
   }
 }, {
-  "speaker" : "The Acting Chair",
+  "speaker" : "The Chair",
   "text" : [ "Thank you very much.", "Questions and comments?" ],
   "anchor" : "para1313",
   "subject" : {
@@ -2340,7 +2340,7 @@
     "anchor" : "para729"
   }
 }, {
-  "speaker" : "The Acting Chair",
+  "speaker" : "The Chair",
   "text" : [ "Questions and comments?" ],
   "anchor" : "para1326",
   "subject" : {

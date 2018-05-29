@@ -19,7 +19,7 @@
   "text" : [ "A quorum, please." ],
   "anchor" : "para30"
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is not present, Speaker." ],
   "anchor" : "para31"
 }, {
@@ -27,7 +27,7 @@
   "text" : [ "Call in the members." ],
   "anchor" : "para32"
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is now present." ],
   "anchor" : "para34"
 }, {
@@ -823,7 +823,7 @@
   "text" : [ "Well, I know that the member opposite has an agenda to discredit the LHINs, to eventually result in their dissolution. We don’t subscribe to that view. We actually believe that it’s of paramount importance that we give local decision-makers through a community board—" ],
   "anchor" : "para556"
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "Care, not chairs." ],
   "anchor" : "para557"
 }, {

@@ -1372,7 +1372,7 @@
     "anchor" : "para499"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "The ayes are 52; the nays are 35." ],
   "anchor" : "para599",
   "subject" : {
@@ -1412,7 +1412,7 @@
     "anchor" : "para602"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "The ayes are 52; the nays are 35." ],
   "anchor" : "para612",
   "subject" : {

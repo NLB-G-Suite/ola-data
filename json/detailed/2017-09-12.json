@@ -52,7 +52,7 @@
     "anchor" : "para211"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is present, Speaker." ],
   "anchor" : "para221",
   "subject" : {
@@ -1308,7 +1308,7 @@
     "anchor" : "para665"
   }
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "Shady? Shady?" ],
   "anchor" : "para677",
   "subject" : {

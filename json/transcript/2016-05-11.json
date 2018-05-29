@@ -1335,7 +1335,7 @@
   "text" : [ "Thank you, Speaker. With your indulgence this evening, I would like to wish our chief government whip a very happy birthday.", "Monsieur le Président, avec votre permission, je voudrais féliciter notre chief whip—" ],
   "anchor" : "para1104"
 }, {
-  "speaker" : "Des voix",
+  "speaker" : "Interjection",
   "text" : [ "Chef." ],
   "anchor" : "para1106"
 }, {
@@ -1351,7 +1351,7 @@
   "text" : [ "La whip en chef. Merci." ],
   "anchor" : "para1109"
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "Happy birthday." ],
   "anchor" : "para1110"
 }, {

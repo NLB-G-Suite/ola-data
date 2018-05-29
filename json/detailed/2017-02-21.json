@@ -2388,7 +2388,7 @@
     "anchor" : "para1207"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is not present, Speaker." ],
   "anchor" : "para1224",
   "subject" : {
@@ -2396,7 +2396,7 @@
     "anchor" : "para1207"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is present, Speaker." ],
   "anchor" : "para1227",
   "subject" : {

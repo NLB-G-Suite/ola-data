@@ -27,11 +27,11 @@
   "text" : [ "Clerk?" ],
   "anchor" : "para256"
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is not present, Speaker." ],
   "anchor" : "para257"
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is now present." ],
   "anchor" : "para259"
 }, {

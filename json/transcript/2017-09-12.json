@@ -27,7 +27,7 @@
   "text" : [ "Is a quorum present?" ],
   "anchor" : "para220"
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is present, Speaker." ],
   "anchor" : "para221"
 }, {
@@ -655,7 +655,7 @@
   "text" : [ "Speaker, today in Ontario, too many shady companies contract out risky work to temp agencies, because our laws are written so that if a temporary employee is hurt on the job, the company isn’t held fully responsible—" ],
   "anchor" : "para676"
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "Shady? Shady?" ],
   "anchor" : "para677"
 }, {

@@ -44,7 +44,7 @@
     "anchor" : "para28"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is not present, Speaker." ],
   "anchor" : "para42",
   "subject" : {
@@ -60,7 +60,7 @@
     "anchor" : "para28"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is present, Speaker." ],
   "anchor" : "para45",
   "subject" : {
@@ -2212,7 +2212,7 @@
     "anchor" : "para1122"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "The following is the title of the bill to which Her Honour did assent:", "An Act to authorize the expenditure of certain amounts for the fiscal year ending March 31, 2015 / Loi autorisant l’utilisation de certaines sommes pour l’exercice se terminant le 31 mars 2015." ],
   "anchor" : "P1141_319870",
   "subject" : {

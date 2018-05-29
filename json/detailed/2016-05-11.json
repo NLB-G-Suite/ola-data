@@ -2653,7 +2653,7 @@
     "anchor" : "para782"
   }
 }, {
-  "speaker" : "Des voix",
+  "speaker" : "Interjection",
   "text" : [ "Chef." ],
   "anchor" : "para1106",
   "subject" : {
@@ -2685,7 +2685,7 @@
     "anchor" : "para782"
   }
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "Happy birthday." ],
   "anchor" : "para1110",
   "subject" : {

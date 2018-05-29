@@ -639,7 +639,7 @@
   "text" : [ "It sounds like the NDP wants us to go back to coal as well. They want cheap electricity. Rather than invest in a system that’s renewable and green, they want cheap electricity. That’s kind of appalling, knowing the investments that we’ve made.", "We recognize that we need to ensure that we find ways to actually help people who are having a hard time with their bills, because we understand that the investments that we’ve made are costing others more." ],
   "anchor" : "para647"
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "Bring Bob back." ],
   "anchor" : "para649"
 }, {
@@ -1159,7 +1159,7 @@
   "text" : [ "At this time, I beg to inform the House that, in the name of Her Majesty the Queen, Her Honour the Lieutenant Governor has been pleased to assent to a certain bill in her office." ],
   "anchor" : "para1192"
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "The following is the title of the bill to which Her Honour did assent:", "An Act to amend the Ontario Energy Board Act, 1998 / Loi modifiant la Loi de 1998 sur la Commission de l’énergie de l’Ontario." ],
   "anchor" : "para1193"
 }, {

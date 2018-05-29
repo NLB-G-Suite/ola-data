@@ -15,7 +15,7 @@
   "text" : [ "Quorum, please." ],
   "anchor" : "para29"
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is present, Speaker." ],
   "anchor" : "para30"
 }, {
@@ -923,7 +923,7 @@
   "text" : [ "I have a very direct question for my colleagues: Would you want to live next door to a giant sludge dump?" ],
   "anchor" : "para807"
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "No." ],
   "anchor" : "para808"
 }, {

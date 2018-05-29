@@ -1537,7 +1537,7 @@
     "anchor" : "para609"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "The following is the title of the bill to which Her Honour did assent:", "An Act to implement 2017 Budget measures / Loi mettant en oeuvre certaines mesures énoncées dans le Budget de 2017." ],
   "anchor" : "para611",
   "subject" : {
@@ -2281,7 +2281,7 @@
     "anchor" : "para889"
   }
 }, {
-  "speaker" : "The Acting Chair",
+  "speaker" : "The Chair",
   "text" : [ "Questions and comments?" ],
   "anchor" : "para1235",
   "subject" : {
@@ -2345,7 +2345,7 @@
     "anchor" : "para889"
   }
 }, {
-  "speaker" : "The Speaker suppléant",
+  "speaker" : "The Speaker",
   "text" : [ "Je voudrais remercier notre procureur général pour ses remarques, et maintenant je passe la parole au député de Lambton–Kent–Middlesex. Vous avez deux minutes." ],
   "anchor" : "para1292",
   "subject" : {
@@ -2361,7 +2361,7 @@
     "anchor" : "para889"
   }
 }, {
-  "speaker" : "The Acting Chair",
+  "speaker" : "The Chair",
   "text" : [ "I want to thank the honourable member from Lambton–Kent–Middlesex for further questions and comments. I now turn to the MPP for Welland." ],
   "anchor" : "para1296",
   "subject" : {
@@ -2377,7 +2377,7 @@
     "anchor" : "para889"
   }
 }, {
-  "speaker" : "The Acting Chair",
+  "speaker" : "The Chair",
   "text" : [ "I thank the honourable member from Welland. I now turn to the member from St. Catharines: two minutes." ],
   "anchor" : "para1300",
   "subject" : {

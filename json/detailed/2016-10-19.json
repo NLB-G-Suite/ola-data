@@ -28,7 +28,7 @@
     "anchor" : "para222"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is present, Speaker." ],
   "anchor" : "para228",
   "subject" : {
@@ -756,7 +756,7 @@
     "anchor" : "para523"
   }
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "Yes." ],
   "anchor" : "para538",
   "subject" : {

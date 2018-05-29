@@ -1195,11 +1195,11 @@
   "text" : [ "I’m sorry to interrupt the speaker, but I’m just wondering if we have quorum." ],
   "anchor" : "para1223"
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is not present, Speaker." ],
   "anchor" : "para1224"
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is present, Speaker." ],
   "anchor" : "para1227"
 }, {

@@ -52,7 +52,7 @@
     "anchor" : "para244"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is not present, Speaker." ],
   "anchor" : "para257",
   "subject" : {
@@ -60,7 +60,7 @@
     "anchor" : "para244"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is now present." ],
   "anchor" : "para259",
   "subject" : {

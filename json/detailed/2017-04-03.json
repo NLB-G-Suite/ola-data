@@ -1580,7 +1580,7 @@
     "anchor" : "para712"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "The following is the title of the bill to which Her Honour did assent:", "An Act to authorize the expenditure of certain amounts for the fiscal year ending March 31, 2017 / Loi autorisant l’utilisation de certaines sommes pour l’exercice se terminant le 31 mars 2017." ],
   "anchor" : "para714",
   "subject" : {
@@ -1876,7 +1876,7 @@
     "anchor" : "para846"
   }
 }, {
-  "speaker" : "The Acting Clerk-at-the-Table",
+  "speaker" : "The Clerk",
   "text" : [ "A quorum is not present, Speaker." ],
   "anchor" : "para941",
   "subject" : {

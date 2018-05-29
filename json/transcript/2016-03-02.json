@@ -835,7 +835,7 @@
   "text" : [ "I declare the amendment carried.", "Are the members ready to vote on the main motion?", "Mr. Bradley has moved government notice of motion number 62. Is it the pleasure of the House that the motion carry? I heard a no.", "All those in favour, please say “aye.”", "All those opposed, please say “nay.”", "In my opinion, the ayes have it.", "Call in the members. This will be a five-minute bell." ],
   "anchor" : "para656"
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "Same vote." ],
   "anchor" : "para663"
 }, {
@@ -1375,7 +1375,7 @@
   "text" : [ "I heard a no.", "All those in favour, please say “aye.”", "All those opposed, please say “nay.”" ],
   "anchor" : "para1228"
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "Nay." ],
   "anchor" : "para1231"
 }, {

@@ -44,7 +44,7 @@
     "anchor" : "para28"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is not present, Speaker." ],
   "anchor" : "para36",
   "subject" : {
@@ -60,7 +60,7 @@
     "anchor" : "para28"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "A quorum is now present, Speaker." ],
   "anchor" : "para39",
   "subject" : {
@@ -2588,7 +2588,7 @@
     "anchor" : "para1286"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "The following are the titles of the bills to which Her Honour did assent:", "An Act to amend the Personal Health Information Protection Act, 2004, to make certain related amendments and to repeal and replace the Quality of Care Information Protection Act, 2004 / Loi visant à modifier la Loi de 2004 sur la protection des renseignements personnels sur la santé, à apporter certaines modifications connexes et à abroger et à remplacer la Loi de 2004 sur la protection des renseignements sur la qualité des soins.", "An Act respecting greenhouse gas / Loi concernant les gaz à effet de serre." ],
   "anchor" : "para1288",
   "subject" : {

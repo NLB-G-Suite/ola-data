@@ -116,7 +116,7 @@
     "anchor" : "para81"
   }
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "No." ],
   "anchor" : "para105",
   "subject" : {
@@ -1996,7 +1996,7 @@
     "anchor" : "para920"
   }
 }, {
-  "speaker" : "Interjections",
+  "speaker" : "Interjection",
   "text" : [ "Dispense." ],
   "anchor" : "para933",
   "subject" : {
@@ -2668,7 +2668,7 @@
     "anchor" : "para1105"
   }
 }, {
-  "speaker" : "The Speaker suppléant",
+  "speaker" : "The Speaker",
   "text" : [ "Merci beaucoup." ],
   "anchor" : "para1389",
   "subject" : {

@@ -652,7 +652,7 @@
     "anchor" : "para239"
   }
 }, {
-  "speaker" : "Une voix",
+  "speaker" : "Interjection",
   "text" : [ "La ministre." ],
   "anchor" : "para276",
   "subject" : {
@@ -2780,7 +2780,7 @@
     "anchor" : "para1219"
   }
 }, {
-  "speaker" : "The Clerk",
+  "speaker" : "The Speaker",
   "text" : [ "The ayes are 9; the nays are 41." ],
   "anchor" : "para1277",
   "subject" : {
