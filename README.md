@@ -20,8 +20,9 @@ File path: `/json/transcript/2016-03-02.json`
 ]
 ```
 Link to original text may be reconstructed following this pattern:  
-`http://www.ontla.on.ca/web/house-proceedings/house_detail.do?Date=2016-03-02#para25`  
-where `2016-03-02` is the name of the file and `para25` is the anchor tex
+`https://www.ola.org/en/legislative-business/house-documents/parliament-41/session-1/2018-05-08/hansard#para25`  
+where `2016-03-02` is the name of the file and `para25` is the anchor text  
+`parliament-41` and `session-1` may also change depending on which parliment and session the tanscript belongs to
 
 ## Parsing raw html files into json
 Using Clojure library [`hickory`](https://github.com/davidsantiago/hickory) to turn html into data structures
